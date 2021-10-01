@@ -1,0 +1,836 @@
+﻿Country Name,Country Code,Series Name,Series Code,2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016]
+France,FRA,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100
+France,FRA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,9.439,9.2798,9.1206,8.9614,8.8022
+France,FRA,Age dependency ratio (% of working-age population),SP.POP.DPND,56.0504984458119,57.1436364142437,58.2423734051435,59.2447436227006,60.0524272863093
+France,FRA,"Agriculture, value added (% of GDP)",NV.AGR.TOTL.ZS,1.63179503677703,1.45863217691004,1.55635615985933,1.60564438654459,1.45039325701527
+France,FRA,"Agriculture, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,-8.62275807969641,-1.91354576224008,14.7035204103611,0.560125745406097,-9.73890334724162
+France,FRA,"Agriculture, value added (constant 2005 US$)",NV.AGR.TOTL.KD,40241849468.5983,39471803263.4449,45275547912.6231,45529147912.8554,41095108202.7997
+France,FRA,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,739353.599757151,641440,610197,607168,599427
+France,FRA,"Automated teller machines (ATMs) (per 100,000 adults)",FB.ATM.TOTL.P5,109.250557662069,108.810140425895,108.045764389539,106.992747524193,104.380441132115
+France,FRA,"Borrowers from commercial banks (per 1,000 adults)",FB.CBK.BRWR.P3,..,..,..,..,..
+France,FRA,Consumer price index (2010 = 100),FP.CPI.TOTL,104.107058016154,105.006246810607,105.539425293424,105.579017755019,105.772580900597
+France,FRA,"Contributing family workers, female (% of female employment) (modeled ILO estimate)",SL.FAM.WORK.FE.ZS,0.707000017166138,0.704999983310699,0.71399998664856,0.65200001001358,0.662000000476837
+France,FRA,"Contributing family workers, male (% of male employment) (modeled ILO estimate)",SL.FAM.WORK.MA.ZS,0.273000001907349,0.212999999523163,0.195999994874001,0.150999993085861,0.17399999499321
+France,FRA,"Contributing family workers, total (% of total employment) (modeled ILO estimate)",SL.FAM.WORK.ZS,0.476000010967255,0.442999988794327,0.439999997615814,0.386999994516373,0.404000014066696
+France,FRA,CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ,..,..,..,..,..
+France,FRA,CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ,..,..,..,..,..
+France,FRA,CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ,..,..,..,..,..
+France,FRA,CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ,..,..,..,..,..
+France,FRA,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ,..,..,..,..,..
+France,FRA,CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ,..,..,..,..,..
+France,FRA,CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ,..,..,..,..,..
+France,FRA,Depth of credit information index (0=low to 8=high),IC.CRD.INFO.XQ,..,6,6,6,6
+France,FRA,Domestic credit provided by financial sector (% of GDP),FS.AST.DOMS.GD.ZS,147.673692696873,143.813566006625,146.773577577084,147.414475407927,155.20042466732
+France,FRA,Domestic credit to private sector (% of GDP),FS.AST.PRVT.GD.ZS,96.5546312626747,96.0201947015595,94.0892609192168,95.0900459964193,97.6173040266216
+France,FRA,Ease of doing business index (1=most business-friendly regulations),IC.BUS.EASE.XQ,..,..,..,..,..
+France,FRA,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,7363.42603842361,7367.84655930893,6939.52231081409,..,..
+France,FRA,"Employers, female (% of female employment) (modeled ILO estimate)",SL.EMP.MPYR.FE.ZS,2.23000001907349,2.18400001525879,2.05399990081787,2.22699999809265,2.30100011825562
+France,FRA,"Employers, male (% of male employment) (modeled ILO estimate)",SL.EMP.MPYR.MA.ZS,6.27799987792969,6.26000022888184,6.28499984741211,6.2020001411438,6.09299993515015
+France,FRA,"Employers, total (% of total employment) (modeled ILO estimate)",SL.EMP.MPYR.ZS,4.38899993896484,4.34999990463257,4.29500007629395,4.3270001411438,4.30800008773804
+France,FRA,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,2.91899991035461,3.07500004768372,2.84599995613098,2.74499988555908,2.87199997901917
+France,FRA,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,1.83399999141693,1.83800005912781,1.64499998092651,1.6360000371933,1.62199997901917
+France,FRA,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,3.86800003051758,4.16599988937378,3.91199994087219,3.73499989509583,3.98300004005432
+France,FRA,Employment in industry (% of total employment) (modeled ILO estimate),SL.IND.EMPL.ZS,21.7600002288818,21.3050003051758,20.5729999542236,20.3759994506836,20.2940006256104
+France,FRA,"Employment in industry, female (% of female employment) (modeled ILO estimate)",SL.IND.EMPL.FE.ZS,10.1639995574951,10.0340003967285,9.59200000762939,9.29599952697754,9.17000007629395
+France,FRA,"Employment in industry, male (% of male employment) (modeled ILO estimate)",SL.IND.EMPL.MA.ZS,31.9060001373291,31.2509994506836,30.3239994049072,30.2630004882813,30.1879997253418
+France,FRA,Employment in services (% of total employment) (modeled ILO estimate),SL.SRV.EMPL.ZS,75.3209991455078,75.620002746582,76.5810012817383,76.8789978027344,76.8339996337891
+France,FRA,"Employment in services, female (% of female employment) (modeled ILO estimate)",SL.SRV.EMPL.FE.ZS,88.0029983520508,88.1289978027344,88.7639999389648,89.0690002441406,89.2080001831055
+France,FRA,"Employment in services, male (% of male employment) (modeled ILO estimate)",SL.SRV.EMPL.MA.ZS,64.2259979248047,64.5830001831055,65.7630004882813,66.0019989013672,65.8290023803711
+France,FRA,Export value index (2000 = 100),TX.VAL.MRCH.XD.WD,174.0223281,177.7363532,177.5537667,154.69443,153.2687706
+France,FRA,Export volume index (2000 = 100),TX.QTY.MRCH.XD.WD,95.70093458,94.85981308,95.3271028,97.10280374,97.38317757
+France,FRA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,29.2030271868495,29.3647378670492,29.666684498073,30.5926223781313,30.1554630596868
+France,FRA,Exports of goods and services (annual % growth),NE.EXP.GNFS.KD.ZG,2.53940061639433,1.90901457339692,3.31212754845065,4.26582031725961,1.84793318990502
+France,FRA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.01,1.99,2.01,1.96,1.96
+France,FRA,Fixed broadband Internet subscribers (per 100 people),IT.NET.BBND.P2,37.6807791555461,39.0175725666227,40.456055289558,41.681921621139,42.7436728502122
+France,FRA,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.22774216144114,1.12374194969107,0.203690144356148,1.80145889971015,1.43634149692101
+France,FRA,"Foreign direct investment, net outflows (% of GDP)",BM.KLT.DINV.WD.GD.ZS,1.93872590915601,0.626618612881495,1.8611371057287,1.71505483634665,2.61185755338031
+France,FRA,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,4.45329150280097,3.93246477463136,3.90387842111745,3.03785903510274,2.39780862475321
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,0.182693034194116,0.576241545777577,0.947586472086044,1.06746164702885,1.18765038087423
+France,FRA,GDP per capita (constant 2005 US$),NY.GDP.PCAP.KD,41158.8849843807,41183.510959426,41374.7612490442,41642.3104260915,41968.9815739992
+France,FRA,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,37327.9444016171,37350.2782677477,37523.7275771828,37766.3741116872,38062.6397284874
+France,FRA,GDP per person employed (constant 1990 PPP $),SL.GDP.PCAP.EM.KD,90240.546875,90922.5,92270.7109375,93191.4296875,93749.7734375
+France,FRA,GINI index (World Bank estimate),SI.POV.GINI,33.1,32.5,32.3,32.7,..
+France,FRA,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.46131992340088,5.50531005859375,5.51760005950928,..,..
+France,FRA,Gross capital formation (% of GDP),NE.GDI.TOTL.ZS,22.6266322737796,22.2871930659001,22.7098310745593,22.7123240564184,22.6857784909413
+France,FRA,Gross capital formation (annual % growth),NE.GDI.TOTL.KD.ZG,-2.50109931394272,0.251775013847634,3.23843051099897,2.40641711229948,1.94934230095515
+France,FRA,"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,..,..,..,..,..
+France,FRA,High-technology exports (% of manufactured exports),TX.VAL.TECH.MF.ZS,25.3667828016941,25.8966650307893,26.0927856598234,26.8472469570315,26.669379348586
+France,FRA,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,6.2532523416,6.2913299042,6.2094188368,6.6734101912,6.6668940872
+France,FRA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,30.499031981938,30.3993172078638,30.8121120215465,31.1590715564548,30.9734322668189
+France,FRA,Individuals using the Internet (% of population),IT.NET.USER.ZS,81.44,81.9198,83.75,78.01,79.27
+France,FRA,"Industry, value added (% of GDP)",NV.IND.TOTL.ZS,17.8685506155676,17.9718012893511,17.7459396724758,17.6796917075443,17.5638795854558
+France,FRA,"Industry, value added (annual % growth)",NV.IND.TOTL.KD.ZG,-1.1513469412177,0.838794268287884,-0.2868860228171,0.477022343569942,1.09669416766205
+France,FRA,"Industry, value added (constant 2005 US$)",NV.IND.TOTL.KD,472263793381.14,476225115011.22,474858891719.108,477124074733.036,482356666633.145
+France,FRA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.9556855,0.86360693,0.507700673,0.037803733,0.183334861
+France,FRA,Informal payments to public officials (% of firms),IC.FRM.CORR.ZS,..,..,..,..,..
+France,FRA,International migrant stock (% of population),SM.POP.TOTL.ZS,..,..,..,12.0884793768866,..
+France,FRA,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,50.9309997558594,51.0810012817383,50.8870010375977,50.7290000915527,50.6749992370605
+France,FRA,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,61.7029991149902,61.435001373291,60.951000213623,60.7039985656738,60.431999206543
+France,FRA,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.ZS,56.1629981994629,56.1119995117188,55.7779998779297,55.5779991149902,55.4210014343262
+France,FRA,Labor force with advanced education (% of total working-age population with advanced education),SL.TLF.ADVN.ZS,76.6579971313477,76.5082015991211,76.1639022827148,75.999397277832,75.8787002563477
+France,FRA,"Labor force with advanced education, female (% of female working-age population with advanced education)",SL.TLF.ADVN.FE.ZS,80.3077011108398,80.0268020629883,78.8202972412109,79.2979965209961,78.9344024658203
+France,FRA,"Labor force with advanced education, male (% of male working-age population with advanced education)",SL.TLF.ADVN.MA.ZS,78.3627014160156,78.1434020996094,77.3880004882813,77.5150985717773,77.2889022827148
+France,FRA,Labor force with basic education (% of total working-age population with basic education),SL.TLF.BASC.ZS,28.7299995422363,27.327600479126,26.1284008026123,25.0797004699707,24.2821006774902
+France,FRA,"Labor force with basic education, female (% of female working-age population with basic education)",SL.TLF.BASC.FE.ZS,42.7038993835449,40.7519989013672,38.9225997924805,37.9908981323242,37.6060981750488
+France,FRA,"Labor force with basic education, male (% of male working-age population with basic education)",SL.TLF.BASC.MA.ZS,35.0029983520508,33.3040008544922,31.7765007019043,30.8159008026123,30.2266006469727
+France,FRA,Labor force with intermediate education (% of total working-age population with intermediate education),SL.TLF.INTM.ZS,59.7290992736816,59.1814002990723,58.4286994934082,58.3504981994629,58.1100997924805
+France,FRA,"Labor force with intermediate education, female (% of female working-age population with intermediate education)",SL.TLF.INTM.FE.ZS,67.9069976806641,66.9797973632813,66.2437973022461,66.0688018798828,65.3559036254883
+France,FRA,"Labor force with intermediate education, male (% of male working-age population with intermediate education)",SL.TLF.INTM.MA.ZS,63.9303016662598,63.2079010009766,62.4869003295898,62.350700378418,61.8478012084961
+France,FRA,"Labor force, total",SL.TLF.TOTL.IN,30091903,30231689,30213192,30251104,30319992
+France,FRA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,85.4,85.6,86,85.5,85.5
+France,FRA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,78.7,79,79.5,79.2,79.2
+France,FRA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0169069616738713,0.017077165108652,0.0167930237861025,0.0165042242125008,..
+France,FRA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,..,..,..,..,..
+France,FRA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,..,..,..,..,..
+France,FRA,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,..,..,..,..,..
+France,FRA,"Literacy rate, youth female (% of females ages 15-24)",SE.ADT.1524.LT.FE.ZS,..,..,..,..,..
+France,FRA,"Literacy rate, youth male (% of males ages 15-24)",SE.ADT.1524.LT.MA.ZS,..,..,..,..,..
+France,FRA,"Literacy rate, youth total (% of people ages 15-24)",SE.ADT.1524.LT.ZS,..,..,..,..,..
+France,FRA,"Manufacturing, value added (% of GDP)",NV.IND.MANF.ZS,10.3615753321039,10.3543424795802,10.2804260000512,10.4336636293504,10.3109709912374
+France,FRA,"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,-0.402655264718135,0.145885178502709,1.79520138973743,1.10648129656848,1.50418366805378
+France,FRA,"Manufacturing, value added (constant 2005 US$)",NV.IND.MANF.KD,282514275127.386,282926421581.951,288005520634.125,291192247853.026,295572314087.87
+France,FRA,Market capitalization of listed companies (% of GDP),CM.MKT.LCAP.GD.ZS,67.3735641611161,81.8577582882045,73.1337508076341,85.6496820148227,87.5833254646163
+France,FRA,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,97.8317477157756,99.0677131198402,101.922962660069,103.450039662752,104.40401670625
+France,FRA,"New business density (new registrations per 1,000 people ages 15-64)",IC.BUS.NDNS.ZS,2.87823056147638,2.47997663283946,2.25706025314445,2.08384631364064,1.83637303757735
+France,FRA,New businesses registered (number),IC.BUS.NREG,121538,104662,94927,86627,76276
+France,FRA,Number of visits or required meetings with tax officials,IC.TAX.METG,..,..,..,..,..
+France,FRA,"Own-account workers, female (% of female employment) (modeled ILO estimate)",SL.EMP.OWAC.FE.ZS,4.74599981307983,4.8600001335144,5.40999984741211,5.35900020599365,5.4980001449585
+France,FRA,"Own-account workers, male (% of male employment) (modeled ILO estimate)",SL.EMP.OWAC.MA.ZS,8.36600017547607,8.08899974822998,8.34200000762939,8.41899967193604,8.72000026702881
+France,FRA,"Own-account workers, total (% of male employment) (modeled ILO estimate)",SL.EMP.OWAC.ZS,6.67700004577637,6.57499980926514,6.96299982070923,6.97599983215332,7.20300006866455
+France,FRA,"Personal remittances, paid (current US$)",BM.TRF.PWKR.CD.DT,12565631505.2452,13425170364.7751,13725934613.3089,12441097565.1409,12527647227.7043
+France,FRA,"Personal transfers, receipts (BoP, current US$)",BX.TRF.PWKR.CD,678613515.634603,717143470.572679,627117722.578296,598960138.145522,627398954.759134
+France,FRA,Population ages 0-14 (% of total),SP.POP.0014.TO.ZS,18.3981715362631,18.3659108944087,18.3201855697399,18.2651337900943,18.1742778082249
+France,FRA,"Population ages 0-14, total",SP.POP.0014.TO,12080201,12121255,12149231,12163367,12151280
+France,FRA,Population ages 15-64 (% of total),SP.POP.1564.TO.ZS,64.0818202135633,63.6360479003751,63.194198194447,62.796420527165,62.4795270260561
+France,FRA,"Population ages 15-64, total",SP.POP.1564.TO,42075988,41998939,41907923,41818250,41773667
+France,FRA,Population ages 65 and above (% of total),SP.POP.65UP.TO.ZS,17.5200082501736,17.9980412052162,18.4856162358131,18.9384456827407,19.346195165719
+France,FRA,"Population ages 65 and above, total",SP.POP.65UP.TO,11503600,11878466,12258938,12611748,12934821
+France,FRA,Population density (people per sq. km of land area),EN.POP.DNST,119.914071046485,120.5329490811,121.112673201146,121.619057011416,122.105585354584
+France,FRA,Population growth (annual %),SP.POP.GROW,0.483982311686857,0.514774024594539,0.479814388342675,0.417238030192745,0.399244807338297
+France,FRA,"Population, total",SP.POP.TOTL,65659789,65998660,66316092,66593366,66859768
+France,FRA,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0,0,0,0,..
+France,FRA,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.5,0.5,0.5,0.5,0.5
+France,FRA,"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS,..,..,..,..,..
+France,FRA,"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS,..,..,..,..,..
+France,FRA,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,..,..,..,..,..
+France,FRA,Private credit bureau coverage (% of adults),IC.CRD.PRVT.ZS,0,0,0,0,0
+France,FRA,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,42.4,43.6,44.5,45.1,46.7
+France,FRA,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2.22579,2.23406,2.23919,2.23135,..
+France,FRA,Researchers in R&D (per million people),SP.POP.SCIE.RD.P6,4073.40585,4169.84829,4168.78202,..,..
+France,FRA,Rural population,SP.RUR.TOTL,13868661,13770620,13665094,13548420,13427447
+France,FRA,Rural population (% of total population),SP.RUR.TOTL.ZS,21.122,20.865,20.606,20.345,20.083
+France,FRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,106.672119140625,106.31111907959,106.13459777832,107.361419677734,..
+France,FRA,"School enrollment, primary, female (% gross)",SE.PRM.ENRR.FE,106.71321105957,106.175628662109,105.975982666016,107.179656982422,..
+France,FRA,"School enrollment, primary, male (% gross)",SE.PRM.ENRR.MA,106.632949829102,106.440322875977,106.285842895508,107.53466796875,..
+France,FRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,112.308311462402,111.430679321289,111.243690490723,111.067039489746,..
+France,FRA,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.00408005714417,1.00952005386353,1.01229000091553,1.00855994224548,..
+France,FRA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,112.542121887207,111.970977783203,111.939170837402,111.551406860352,..
+France,FRA,"School enrollment, secondary, male (% gross)",SE.SEC.ENRR.MA,112.085083007813,110.91471862793,110.579597473145,110.604698181152,..
+France,FRA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,60.4692115783691,62.2612609863281,64.0950775146484,65.2639083862305,..
+France,FRA,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.26847004890442,1.25431001186371,1.25284004211426,1.25269997119904,..
+France,FRA,"School enrollment, tertiary, female (% gross)",SE.TER.ENRR.FE,67.8015899658203,69.4570007324219,71.4657211303711,72.7673873901367,..
+France,FRA,"School enrollment, tertiary, male (% gross)",SE.TER.ENRR.MA,53.4515609741211,55.3745918273926,57.0431785583496,58.0885887145996,..
+France,FRA,"Self-employed, female (% of female employment) (modeled ILO estimate)",SL.EMP.SELF.FE.ZS,7.68200016021729,7.74900007247925,8.17899990081787,8.23799991607666,8.46100044250488
+France,FRA,"Self-employed, male (% of male employment) (modeled ILO estimate)",SL.EMP.SELF.MA.ZS,14.9169998168945,14.5620002746582,14.8229999542236,14.7720003128052,14.9870004653931
+France,FRA,"Self-employed, total (% of total employment) (modeled ILO estimate)",SL.EMP.SELF.ZS,11.5410003662109,11.3680000305176,11.6979999542236,11.6909999847412,11.914999961853
+France,FRA,Tax payments (number),IC.TAX.PAYM,9,9,9,9,9
+France,FRA,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,22.5534803648404,23.2333060487278,23.1796033519943,23.1817040508872,23.1451317617412
+France,FRA,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,49.5678181609771,50.0403543046963,49.4691023806609,49.0165491313374,49.0497377885053
+France,FRA,Technicians in R&D (per million people),SP.POP.TECH.RD.P6,1874.30192,1839.21789,1780.85131,..,..
+France,FRA,Telephone lines (per 100 people),IT.MLT.MAIN.P2,62.3979875006979,61.1390030434489,60.4527407875273,60.3951139609677,60.2682078945697
+France,FRA,Time required to enforce a contract (days),IC.LGL.DURS,390,395,395,395,395
+France,FRA,Time required to obtain an operating license (days),IC.FRM.DURS,..,..,..,..,..
+France,FRA,Time required to register property (days),IC.PRP.DURS,74,74,64,64,64
+France,FRA,Time required to start a business (days),IC.REG.DURS,6.5,6.5,4.5,4,3.5
+France,FRA,Time to prepare and pay taxes (hours),IC.TAX.DURS,132,137,137,137,139
+France,FRA,Time to resolve insolvency (years),IC.ISV.DURS,1.9,1.9,1.9,1.9,1.9
+France,FRA,"Total employment, total (ages 15+)",SL.EMP.TOTL,27263437,27232333,27101306,27117569,27269447
+France,FRA,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,5.44610023498535,5.88800001144409,6.28289985656738,6.08379983901978,5.84849977493286
+France,FRA,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,5.41510009765625,6.0991997718811,6.3668999671936,6.54290008544922,5.52540016174316
+France,FRA,"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS,5.43120002746582,5.98850011825562,6.32240009307861,6.29960012435913,5.69619989395142
+France,FRA,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,10.0122995376587,10.4996004104614,11.0423002243042,11.0742998123169,10.9659996032715
+France,FRA,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS,8.90100002288818,9.80920028686523,10.3171997070313,10.5837001800537,10.4106998443604
+France,FRA,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS,9.40590000152588,10.1218996047974,10.6430997848511,10.8049001693726,10.6632995605469
+France,FRA,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,9.35700035095215,9.78699970245361,10.0290002822876,9.87199974060059,9.84799957275391
+France,FRA,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,9.4370002746582,10.0369997024536,10.5389995574951,10.7910003662109,10.2480001449585
+France,FRA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,9.39999961853027,9.92000007629395,10.3000001907349,10.3599996566772,10.0600004196167
+France,FRA,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,23.0359992980957,24.3199996948242,22.9890003204346,23.2049999237061,23.9139995574951
+France,FRA,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,23.9720001220703,23.7169990539551,25.048999786377,25.6380004882813,24.9200000762939
+France,FRA,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,23.5599994659424,23.9829998016357,24.1429996490479,24.5610008239746,24.4710006713867
+France,FRA,Urban population,SP.URB.TOTL,51791128,52228040,52650998,53044946,53432321
+France,FRA,Urban population (% of total),SP.URB.TOTL.IN.ZS,78.878,79.135,79.394,79.655,79.917
+France,FRA,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,5.45299983024597,5.5650001168251,6.12399983406067,6.01100021600723,6.16000014543534
+France,FRA,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,8.63900017738342,8.30199974775314,8.53800000250339,8.5699996650219,8.89400026202202
+France,FRA,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,7.15300005674362,7.01799979805947,7.40299981832504,7.36299982666969,7.60700008273125
+France,FRA,"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)",SL.EMP.WORK.FE.ZS,92.318000793457,92.2509994506836,91.8209991455078,91.7620010375977,91.5390014648438
+France,FRA,"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)",SL.EMP.WORK.MA.ZS,85.0830001831055,85.4380035400391,85.177001953125,85.2279968261719,85.0130004882813
+France,FRA,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.4589996337891,88.6320037841797,88.302001953125,88.3089981079102,88.0849990844727
+Germany,DEU,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100
+Germany,DEU,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,8.063,7.7574,7.4518,7.1462,6.8406
+Germany,DEU,Age dependency ratio (% of working-age population),SP.POP.DPND,51.816006659034,51.7915170212172,51.8582332205677,52.0596259289746,52.3439752792884
+Germany,DEU,"Agriculture, value added (% of GDP)",NV.AGR.TOTL.ZS,0.702906905077839,0.87890625,0.689725726094385,0.555221526785274,0.553171864315135
+Germany,DEU,"Agriculture, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,-0.847457627118644,5.15069725596042,-12.0213903743316,15.8400194505227,-0.577185433938496
+Germany,DEU,"Agriculture, value added (constant 2005 US$)",NV.AGR.TOTL.KD,19667226382.8339,20680225672.458,18194175014.0791,21076135875.1714,20954487488.8628
+Germany,DEU,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,985668.769188173,954874,946082,967453,962803
+Germany,DEU,"Automated teller machines (ATMs) (per 100,000 adults)",FB.ATM.TOTL.P5,118.534002507071,118.288664181208,123.38982667452,122.166527093462,118.797005824395
+Germany,DEU,"Borrowers from commercial banks (per 1,000 adults)",FB.CBK.BRWR.P3,..,..,..,..,..
+Germany,DEU,Consumer price index (2010 = 100),FP.CPI.TOTL,104.125343778648,105.692141011751,106.650554212851,106.900575047921,107.417284773731
+Germany,DEU,"Contributing family workers, female (% of female employment) (modeled ILO estimate)",SL.FAM.WORK.FE.ZS,0.794000029563904,0.717000007629395,0.672999978065491,0.587000012397766,0.563000023365021
+Germany,DEU,"Contributing family workers, male (% of male employment) (modeled ILO estimate)",SL.FAM.WORK.MA.ZS,0.340000003576279,0.28600001335144,0.257999986410141,0.25,0.241999998688698
+Germany,DEU,"Contributing family workers, total (% of total employment) (modeled ILO estimate)",SL.FAM.WORK.ZS,0.547999978065491,0.486000001430511,0.45100000500679,0.407000005245209,0.391000002622604
+Germany,DEU,CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ,..,..,..,..,..
+Germany,DEU,CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ,..,..,..,..,..
+Germany,DEU,CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ,..,..,..,..,..
+Germany,DEU,CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ,..,..,..,..,..
+Germany,DEU,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ,..,..,..,..,..
+Germany,DEU,CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ,..,..,..,..,..
+Germany,DEU,CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ,..,..,..,..,..
+Germany,DEU,Depth of credit information index (0=low to 8=high),IC.CRD.INFO.XQ,..,8,8,8,8
+Germany,DEU,Domestic credit provided by financial sector (% of GDP),FS.AST.DOMS.GD.ZS,156.924945436616,136.886322463768,139.753961677357,134.343107781775,133.762344746426
+Germany,DEU,Domestic credit to private sector (% of GDP),FS.AST.PRVT.GD.ZS,83.4136013283737,81.6658174818841,79.1714834252354,77.6729913097761,77.2251713554174
+Germany,DEU,Ease of doing business index (1=most business-friendly regulations),IC.BUS.EASE.XQ,..,..,..,..,..
+Germany,DEU,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,7270.15252302734,7217.52908915495,7035.48297471676,..,..
+Germany,DEU,"Employers, female (% of female employment) (modeled ILO estimate)",SL.EMP.MPYR.FE.ZS,2.49200010299683,2.50799989700317,2.5220000743866,2.51900005340576,2.43499994277954
+Germany,DEU,"Employers, male (% of male employment) (modeled ILO estimate)",SL.EMP.MPYR.MA.ZS,6.72100019454956,6.66200017929077,6.49399995803833,6.47900009155273,6.18900012969971
+Germany,DEU,"Employers, total (% of total employment) (modeled ILO estimate)",SL.EMP.MPYR.ZS,4.77600002288818,4.73999977111816,4.65199995040894,4.63600015640259,4.43900012969971
+Germany,DEU,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,1.56099998950958,1.44700002670288,1.42799997329712,1.39400005340576,1.30799996852875
+Germany,DEU,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,1.09700000286102,1.00800001621246,1.00899994373322,0.955999970436096,0.89300000667572
+Germany,DEU,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,1.95500004291534,1.82400000095367,1.79200005531311,1.77499997615814,1.6710000038147
+Germany,DEU,Employment in industry (% of total employment) (modeled ILO estimate),SL.IND.EMPL.ZS,28.193000793457,27.7779998779297,28.0510005950928,27.6889991760254,27.3819999694824
+Germany,DEU,"Employment in industry, female (% of female employment) (modeled ILO estimate)",SL.IND.EMPL.FE.ZS,14.1599998474121,14.0120000839233,14.1700000762939,13.8680000305176,13.8079996109009
+Germany,DEU,"Employment in industry, male (% of male employment) (modeled ILO estimate)",SL.IND.EMPL.MA.ZS,40.1419982910156,39.6319999694824,40.0589981079102,39.7130012512207,39.2319984436035
+Germany,DEU,Employment in services (% of total employment) (modeled ILO estimate),SL.SRV.EMPL.ZS,70.2460021972656,70.7760009765625,70.5199966430664,70.9169998168945,71.3099975585938
+Germany,DEU,"Employment in services, female (% of female employment) (modeled ILO estimate)",SL.SRV.EMPL.FE.ZS,84.7419967651367,84.9800033569336,84.8209991455078,85.1760025024414,85.2990036010742
+Germany,DEU,"Employment in services, male (% of male employment) (modeled ILO estimate)",SL.SRV.EMPL.MA.ZS,57.9029998779297,58.5439987182617,58.1500015258789,58.5110015869141,59.0970001220703
+Germany,DEU,Export value index (2000 = 100),TX.VAL.MRCH.XD.WD,254.5407903,262.5004999,271.4546009,240.9324192,243.0484804
+Germany,DEU,Export volume index (2000 = 100),TX.QTY.MRCH.XD.WD,149.2242595,148.2369535,150.9167842,155.0070522,155.9943583
+Germany,DEU,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,45.982539717068,45.3978784533514,45.7043038803466,46.8748377770112,46.1192411062165
+Germany,DEU,Exports of goods and services (annual % growth),NE.EXP.GNFS.KD.ZG,2.82600655991789,1.71546584996445,4.63576220631469,5.23206749029667,2.63031215240382
+Germany,DEU,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.41,1.42,1.47,1.5,1.5
+Germany,DEU,Fixed broadband Internet subscribers (per 100 people),IT.NET.BBND.P2,34.4862474667009,35.2450772280104,36.2902704465818,37.5820094703578,39.0650407536271
+Germany,DEU,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.84719447462816,1.79633130561567,0.50836174987881,1.60319808245986,1.66935764076614
+Germany,DEU,"Foreign direct investment, net outflows (% of GDP)",BM.KLT.DINV.WD.GD.ZS,2.79661427005255,2.49029204787954,2.95769311123965,3.82023778755137,2.62295451071848
+Germany,DEU,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,2.47305941284707,2.46381580403973,2.30287984053899,2.21306570865914,1.7296536936629
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,0.491992829138056,0.489584482494635,1.92969040980758,1.74320539365993,1.94362542781317
+Germany,DEU,GDP per capita (constant 2005 US$),NY.GDP.PCAP.KD,44259.2599053983,44354.7368865267,45022.5653486423,45412.5568082313,45923.0075696152
+Germany,DEU,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,42822.0994035797,42914.4761126655,43560.6192440775,43937.9471317278,44431.8228379944
+Germany,DEU,GDP per person employed (constant 1990 PPP $),SL.GDP.PCAP.EM.KD,86373.4765625,85869.0859375,86612.1875,87629.6171875,88234.5
+Germany,DEU,GINI index (World Bank estimate),SI.POV.GINI,..,31.1,..,31.7,..
+Germany,DEU,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,4.93331003189087,4.93496990203857,4.93112993240356,..,..
+Germany,DEU,Gross capital formation (% of GDP),NE.GDI.TOTL.ZS,19.3067731105842,19.5122141077899,19.5171988119231,19.1484566228049,19.1978817130771
+Germany,DEU,Gross capital formation (annual % growth),NE.GDI.TOTL.KD.ZG,-8.244122048194,1.49581271658528,2.11239918163611,0.230924127486759,2.14073185640198
+Germany,DEU,"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,..,..,..,..,..
+Germany,DEU,High-technology exports (% of manufactured exports),TX.VAL.TECH.MF.ZS,15.9764857498027,16.0800683207586,16.0024056209854,16.6611459277152,16.9051898591463
+Germany,DEU,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,7.5502898458,7.1950137084,7.7424273435,8.4396650434,8.4256169304
+Germany,DEU,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,39.8922146570664,39.4385473278985,38.7813686073515,38.8809488607429,38.1480256357246
+Germany,DEU,Individuals using the Internet (% of population),IT.NET.USER.ZS,82.3499984738392,84.17,86.19,87.5898,89.6471005903368
+Germany,DEU,"Industry, value added (% of GDP)",NV.IND.TOTL.ZS,27.5925039698941,27.0866946897645,27.4023263665101,27.4861104266259,27.4659436077671
+Germany,DEU,"Industry, value added (annual % growth)",NV.IND.TOTL.KD.ZG,-0.378679137951508,-0.689259683675019,4.99897736220925,1.90158344248263,1.87321456607567
+Germany,DEU,"Industry, value added (constant 2005 US$)",NV.IND.TOTL.KD,971876585713.375,965177832232.975,1013426853571.36,1032698010820.55,1052042660382.81
+Germany,DEU,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.008491182,1.504722267,0.906797035,0.234429945,0.483355422
+Germany,DEU,Informal payments to public officials (% of firms),IC.FRM.CORR.ZS,..,..,..,..,..
+Germany,DEU,International migrant stock (% of population),SM.POP.TOTL.ZS,..,..,..,14.8790512953233,..
+Germany,DEU,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,53.7039985656738,54.310001373291,54.5149993896484,54.6080017089844,54.9599990844727
+Germany,DEU,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,66.5970001220703,66.6340026855469,66.5240020751953,66.2160034179688,66.2740020751953
+Germany,DEU,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.ZS,59.9879989624023,60.3209991455078,60.3779983520508,60.2799987792969,60.4930000305176
+Germany,DEU,Labor force with advanced education (% of total working-age population with advanced education),SL.TLF.ADVN.ZS,74.8809967041016,74.6212997436523,74.4007034301758,74.0783004760742,74.28759765625
+Germany,DEU,"Labor force with advanced education, female (% of female working-age population with advanced education)",SL.TLF.ADVN.FE.ZS,73.618896484375,73.4873962402344,73.1156997680664,72.8218994140625,73.3721008300781
+Germany,DEU,"Labor force with advanced education, male (% of male working-age population with advanced education)",SL.TLF.ADVN.MA.ZS,74.1642990112305,73.9825973510742,73.6421966552734,73.3419036865234,73.7539978027344
+Germany,DEU,Labor force with basic education (% of total working-age population with basic education),SL.TLF.BASC.ZS,30.4297008514404,30.7858009338379,28.5527000427246,28.7637004852295,29.4013004302979
+Germany,DEU,"Labor force with basic education, female (% of female working-age population with basic education)",SL.TLF.BASC.FE.ZS,57.2196998596191,57.4174003601074,50.4682006835938,49.9370002746582,50.4499015808105
+Germany,DEU,"Labor force with basic education, male (% of male working-age population with basic education)",SL.TLF.BASC.MA.ZS,40.2897987365723,40.7566986083984,37.146900177002,37.219898223877,38.0371017456055
+Germany,DEU,Labor force with intermediate education (% of total working-age population with intermediate education),SL.TLF.INTM.ZS,59.3185005187988,59.7324981689453,60.4444999694824,60.0527000427246,60.973201751709
+Germany,DEU,"Labor force with intermediate education, female (% of female working-age population with intermediate education)",SL.TLF.INTM.FE.ZS,68.0733032226563,67.9848022460938,67.9795989990234,67.5531005859375,68.5082015991211
+Germany,DEU,"Labor force with intermediate education, male (% of male working-age population with intermediate education)",SL.TLF.INTM.MA.ZS,63.6516990661621,63.8148002624512,64.0954971313477,63.6841011047363,64.6239013671875
+Germany,DEU,"Labor force, total",SL.TLF.TOTL.IN,41807485,42203758,42457453,42780921,43294640
+Germany,DEU,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.1,83,83.6,83.1,83.1
+Germany,DEU,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,78.1,78.1,78.7,78.3,78.3
+Germany,DEU,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.00858274087125079,0.00856552951783819,0.00856142034325164,0.00852045989664896,..
+Germany,DEU,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,..,..,..,..,..
+Germany,DEU,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,..,..,..,..,..
+Germany,DEU,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,..,..,..,..,..
+Germany,DEU,"Literacy rate, youth female (% of females ages 15-24)",SE.ADT.1524.LT.FE.ZS,..,..,..,..,..
+Germany,DEU,"Literacy rate, youth male (% of males ages 15-24)",SE.ADT.1524.LT.MA.ZS,..,..,..,..,..
+Germany,DEU,"Literacy rate, youth total (% of people ages 15-24)",SE.ADT.1524.LT.ZS,..,..,..,..,..
+Germany,DEU,"Manufacturing, value added (% of GDP)",NV.IND.MANF.ZS,20.4215338655529,20.1838838881341,20.5922993244603,20.7630312289521,20.6354224646555
+Germany,DEU,"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,-2.23000279161076,0.00942369848495161,5.80529641708745,1.92393338321575,2.14104736141039
+Germany,DEU,"Manufacturing, value added (constant 2005 US$)",NV.IND.MANF.KD,723931308406.865,723999529510.608,766029848257.017,780767752233.031,797484359590.959
+Germany,DEU,Market capitalization of listed companies (% of GDP),CM.MKT.LCAP.GD.ZS,41.9390958904584,51.5949178679439,44.6855492641282,50.8293295285922,49.3427840395663
+Germany,DEU,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,113.980879929433,123.095833257604,122.138195201698,117.932453171631,126.314367711806
+Germany,DEU,"New business density (new registrations per 1,000 people ages 15-64)",IC.BUS.NDNS.ZS,1.28801061306478,1.292285379141,1.26866567488649,1.28942936977265,1.30195024488152
+Germany,DEU,New businesses registered (number),IC.BUS.NREG,69332,68526,67458,69384,70720
+Germany,DEU,Number of visits or required meetings with tax officials,IC.TAX.METG,..,..,..,..,..
+Germany,DEU,"Own-account workers, female (% of female employment) (modeled ILO estimate)",SL.EMP.OWAC.FE.ZS,5.09499979019165,4.91400003433228,4.82100009918213,4.6729998588562,4.67899990081787
+Germany,DEU,"Own-account workers, male (% of male employment) (modeled ILO estimate)",SL.EMP.OWAC.MA.ZS,7.30999994277954,6.9539999961853,6.81400012969971,6.6729998588562,6.43300008773804
+Germany,DEU,"Own-account workers, total (% of male employment) (modeled ILO estimate)",SL.EMP.OWAC.ZS,6.29099988937378,6.01000022888184,5.8899998664856,5.74200010299683,5.61600017547607
+Germany,DEU,"Personal remittances, paid (current US$)",BM.TRF.PWKR.CD.DT,15587632314.3731,19978671692.0898,20077994826.2717,18033313160.3866,20289740177.9681
+Germany,DEU,"Personal transfers, receipts (BoP, current US$)",BX.TRF.PWKR.CD,..,6469113.89084409,26542416.6299337,11113983.2997235,5286297.1784984
+Germany,DEU,Population ages 0-14 (% of total),SP.POP.0014.TO.ZS,13.344893757731,13.2435250003079,13.1671515134558,13.1187603179423,13.0894633869742
+Germany,DEU,"Population ages 0-14, total",SP.POP.0014.TO,10732741,10680321,10663088,10716271,10778999
+Germany,DEU,Population ages 15-64 (% of total),SP.POP.1564.TO.ZS,65.8692075817318,65.8798344023014,65.8508907755905,65.7636764592908,65.640928159976
+Germany,DEU,"Population ages 15-64, total",SP.POP.1564.TO,52975852,53129191,53327698,53720119,54054431
+Germany,DEU,Population ages 65 and above (% of total),SP.POP.65UP.TO.ZS,20.7858986605372,20.8766405973907,20.9819577109538,21.1175632227669,21.2696084530498
+Germany,DEU,"Population ages 65 and above, total",SP.POP.65UP.TO,16717230,16836093,16991714,17250222,17515239
+Germany,DEU,Population density (people per sq. km of land area),EN.POP.DNST,230.750625466231,231.155712565925,232.108053883634,234.153658068159,236.023700200631
+Germany,DEU,Population growth (annual %),SP.POP.GROW,0.187727800567293,0.272900214681538,0.416877359168292,0.865702643950251,0.807218538573871
+Germany,DEU,"Population, total",SP.POP.TOTL,80425823,80645605,80982500,81686611,82348669
+Germany,DEU,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,..,0,..,0,..
+Germany,DEU,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1,0.1,0.1,0.2,0.2
+Germany,DEU,"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS,99.5128479003906,99.4386901855469,98.5669174194336,100.265830993652,..
+Germany,DEU,"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS,99.0710525512695,99.7747268676758,99.0425033569336,100.688362121582,..
+Germany,DEU,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,99.2861480712891,99.6110763549805,98.8108291625977,100.482559204102,..
+Germany,DEU,Private credit bureau coverage (% of adults),IC.CRD.PRVT.ZS,100,100,100,100,100
+Germany,DEU,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,1.3,0,1.3,1.6,1.9
+Germany,DEU,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2.86632,2.8173,2.89227,2.87749,..
+Germany,DEU,Researchers in R&D (per million people),SP.POP.SCIE.RD.P6,4379.07515,4399.67239,4363.7795,4431.08151,..
+Germany,DEU,Rural population,SP.RUR.TOTL,18361215,18403327,18472108,18624547,18755733
+Germany,DEU,Rural population (% of total population),SP.RUR.TOTL.ZS,22.83,22.82,22.81,22.8,22.776
+Germany,DEU,"School enrollment, primary (% gross)",SE.PRM.ENRR,102.143058776855,101.701728820801,101.457336425781,102.389053344727,..
+Germany,DEU,"School enrollment, primary, female (% gross)",SE.PRM.ENRR.FE,102.053672790527,101.357696533203,101.125801086426,102.099296569824,..
+Germany,DEU,"School enrollment, primary, male (% gross)",SE.PRM.ENRR.MA,102.227890014648,102.028266906738,101.77205657959,102.664070129395,..
+Germany,DEU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,102.276039123535,101.430656433105,101.08097076416,101.060852050781,..
+Germany,DEU,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.949819982051849,0.955160021781921,0.954859972000122,0.95345002412796,..
+Germany,DEU,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,99.5745468139648,99.0393600463867,98.6791229248047,98.5810165405273,..
+Germany,DEU,"School enrollment, secondary, male (% gross)",SE.SEC.ENRR.MA,104.835609436035,103.689018249512,103.344177246094,103.394523620605,..
+Germany,DEU,"School enrollment, tertiary (% gross)",SE.TER.ENRR,..,60.4592895507813,64.184440612793,66.2772216796875,..
+Germany,DEU,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,..,0.937960028648376,0.95346999168396,0.980319976806641,..
+Germany,DEU,"School enrollment, tertiary, female (% gross)",SE.TER.ENRR.FE,..,58.4760894775391,62.6136894226074,65.5981979370117,..
+Germany,DEU,"School enrollment, tertiary, male (% gross)",SE.TER.ENRR.MA,..,62.3437004089355,65.6692810058594,66.9151382446289,..
+Germany,DEU,"Self-employed, female (% of female employment) (modeled ILO estimate)",SL.EMP.SELF.FE.ZS,8.38000011444092,8.13899993896484,8.01599979400635,7.77899980545044,7.67700004577637
+Germany,DEU,"Self-employed, male (% of male employment) (modeled ILO estimate)",SL.EMP.SELF.MA.ZS,14.3699998855591,13.9029998779297,13.5670003890991,13.4010000228882,12.8640003204346
+Germany,DEU,"Self-employed, total (% of total employment) (modeled ILO estimate)",SL.EMP.SELF.ZS,11.6160001754761,11.2360000610352,10.9919996261597,10.78600025177,10.4460000991821
+Germany,DEU,Tax payments (number),IC.TAX.PAYM,9,9,9,9,9
+Germany,DEU,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,11.5712079354376,11.5500099071558,11.480628957841,11.3681599395463,11.2420603998028
+Germany,DEU,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,39.857878708125,40.7835040176944,41.1574082324915,42.192788007179,44.077622108551
+Germany,DEU,Technicians in R&D (per million people),SP.POP.TECH.RD.P6,1743.90496,1722.44152,1901.9685,..,..
+Germany,DEU,Telephone lines (per 100 people),IT.MLT.MAIN.P2,61.8013212604391,59.9272955159776,57.7017992221344,55.5026645011775,55.3014483168534
+Germany,DEU,Time required to enforce a contract (days),IC.LGL.DURS,394,394,459,479,499
+Germany,DEU,Time required to obtain an operating license (days),IC.FRM.DURS,..,..,..,..,..
+Germany,DEU,Time required to register property (days),IC.PRP.DURS,52,52,52,52,52
+Germany,DEU,Time required to start a business (days),IC.REG.DURS,14.5,14.5,14.5,10.5,10.5
+Germany,DEU,Time to prepare and pay taxes (hours),IC.TAX.DURS,207,218,218,218,218
+Germany,DEU,Time to resolve insolvency (years),IC.ISV.DURS,1.2,1.2,1.2,1.2,1.2
+Germany,DEU,"Total employment, total (ages 15+)",SL.EMP.TOTL,39558491,39996355,40342949,40804397,41510409
+Germany,DEU,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,2.59629988670349,2.59060001373291,2.74819993972778,2.53999996185303,2.25909996032715
+Germany,DEU,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,2.09200000762939,2.15669989585876,2.2664999961853,2.16569995880127,2.13439989089966
+Germany,DEU,"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS,2.31200003623962,2.3478000164032,2.46589994430542,2.32220005989075,2.18680000305176
+Germany,DEU,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,4.94229984283447,4.72629976272583,4.24399995803833,3.75939989089966,3.29679989814758
+Germany,DEU,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS,5.48339986801147,5.40689992904663,4.99790000915527,4.6911997795105,4.05970001220703
+Germany,DEU,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS,5.22870016098022,5.08500003814697,4.6314001083374,4.23789978027344,3.68869996070862
+Germany,DEU,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,5.17999982833862,4.91800022125244,4.63000011444092,4.21799993515015,3.74000000953674
+Germany,DEU,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,5.55000019073486,5.49700021743774,5.28000020980835,4.96700000762939,4.44999980926514
+Germany,DEU,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,5.38000011444092,5.23000001907349,4.98000001907349,4.61999988555908,4.11999988555908
+Germany,DEU,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,7.28900003433228,7.09000015258789,7.0460000038147,6.46400022506714,6.09499979019165
+Germany,DEU,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,8.6899995803833,8.45800018310547,8.34200000762939,7.87099981307983,7.84600019454956
+Germany,DEU,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,8.04300022125244,7.82200002670288,7.74200010299683,7.21799993515015,7.03200006484985
+Germany,DEU,Urban population,SP.URB.TOTL,62064608,62242278,62510392,63062064,63592936
+Germany,DEU,Urban population (% of total),SP.URB.TOTL.IN.ZS,77.17,77.18,77.19,77.2,77.224
+Germany,DEU,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,5.88899981975555,5.63100004196168,5.49400007724762,5.25999987125397,5.24199992418289
+Germany,DEU,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,7.64999994635582,7.24000000953674,7.07200011610985,6.9229998588562,6.67500008642674
+Germany,DEU,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,6.83899986743927,6.49600023031235,6.34099987149239,6.14900010824204,6.00700017809867
+Germany,DEU,"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)",SL.EMP.WORK.FE.ZS,91.620002746582,91.8610000610352,91.984001159668,92.2210006713867,92.322998046875
+Germany,DEU,"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)",SL.EMP.WORK.MA.ZS,85.629997253418,86.0970001220703,86.4329986572266,86.5989990234375,87.1360015869141
+Germany,DEU,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.3840026855469,88.7639999389648,89.0080032348633,89.213996887207,89.5540008544922
+Japan,JPN,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100
+Japan,JPN,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,4.479,4.3988,4.3186,4.2384,4.1582
+Japan,JPN,Age dependency ratio (% of working-age population),SP.POP.DPND,59.0152801637455,60.7133638032773,62.3833231883095,63.9521257887958,65.290106306176
+Japan,JPN,"Agriculture, value added (% of GDP)",NV.AGR.TOTL.ZS,1.14179569465804,1.10418708697322,1.05626649230554,1.11029279352945,1.1503293367689
+Japan,JPN,"Agriculture, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,0.632013171014933,0.289577104138544,-3.14802662442911,-4.82228589053913,-13.1068849799805
+Japan,JPN,"Agriculture, value added (constant 2005 US$)",NV.AGR.TOTL.KD,63946957943.3782,64132133692.3754,62113237048.9249,59117959182.5575,51369436269.9878
+Japan,JPN,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,874677,915542.658,927666,956015,984320
+Japan,JPN,"Automated teller machines (ATMs) (per 100,000 adults)",FB.ATM.TOTL.P5,127.895951722721,128.296341685946,127.494084799556,127.651516888282,127.7969276653
+Japan,JPN,"Borrowers from commercial banks (per 1,000 adults)",FB.CBK.BRWR.P3,..,..,..,..,..
+Japan,JPN,Consumer price index (2010 = 100),FP.CPI.TOTL,99.680566347233,100.0259000259,102.788569455236,103.600103600104,103.47923681257
+Japan,JPN,"Contributing family workers, female (% of female employment) (modeled ILO estimate)",SL.FAM.WORK.FE.ZS,5.4980001449585,5.29300022125244,5.01700019836426,4.82200002670288,4.42199993133545
+Japan,JPN,"Contributing family workers, male (% of male employment) (modeled ILO estimate)",SL.FAM.WORK.MA.ZS,0.981000006198883,0.899999976158142,0.925000011920929,0.842000007629395,0.837999999523163
+Japan,JPN,"Contributing family workers, total (% of total employment) (modeled ILO estimate)",SL.FAM.WORK.ZS,2.88100004196167,2.76699995994568,2.67199993133545,2.55100011825562,2.38800001144409
+Japan,JPN,CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ,..,..,..,..,..
+Japan,JPN,CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ,..,..,..,..,..
+Japan,JPN,CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ,..,..,..,..,..
+Japan,JPN,CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ,..,..,..,..,..
+Japan,JPN,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ,..,..,..,..,..
+Japan,JPN,CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ,..,..,..,..,..
+Japan,JPN,CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ,..,..,..,..,..
+Japan,JPN,Depth of credit information index (0=low to 8=high),IC.CRD.INFO.XQ,..,6,6,6,6
+Japan,JPN,Domestic credit provided by financial sector (% of GDP),FS.AST.DOMS.GD.ZS,329.968367591717,338.14950509094,345.721874957642,341.81089703888,345.149319478516
+Japan,JPN,Domestic credit to private sector (% of GDP),FS.AST.PRVT.GD.ZS,159.857516529224,162.308458023185,162.67621734314,162.058999055422,161.714798486094
+Japan,JPN,Ease of doing business index (1=most business-friendly regulations),IC.BUS.EASE.XQ,..,..,..,..,..
+Japan,JPN,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,7998.34677071825,7988.58331044764,7819.71463590936,..,..
+Japan,JPN,"Employers, female (% of female employment) (modeled ILO estimate)",SL.EMP.MPYR.FE.ZS,0.880999982357025,0.902999997138977,0.893999993801117,0.848999977111816,0.834999978542328
+Japan,JPN,"Employers, male (% of male employment) (modeled ILO estimate)",SL.EMP.MPYR.MA.ZS,3.22900009155273,3.23600006103516,3.11500000953674,3.00600004196167,2.96399998664856
+Japan,JPN,"Employers, total (% of total employment) (modeled ILO estimate)",SL.EMP.MPYR.ZS,2.2409999370575,2.24399995803833,2.16599988937378,2.07999992370605,2.04299998283386
+Japan,JPN,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,3.86700010299683,3.74600005149841,3.67899990081787,3.63299989700317,3.50200009346008
+Japan,JPN,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,3.53800010681152,3.38299989700317,3.27600002288818,3.22399997711182,3.04500007629395
+Japan,JPN,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,4.10500001907349,4.01399993896484,3.97900009155273,3.94099998474121,3.84899997711182
+Japan,JPN,Employment in industry (% of total employment) (modeled ILO estimate),SL.IND.EMPL.ZS,26.1959991455078,26.1900005340576,25.2240009307861,25.9080009460449,25.6149997711182
+Japan,JPN,"Employment in industry, female (% of female employment) (modeled ILO estimate)",SL.IND.EMPL.FE.ZS,14.7030000686646,14.6850004196167,14.4799995422363,14.7720003128052,14.543999671936
+Japan,JPN,"Employment in industry, male (% of male employment) (modeled ILO estimate)",SL.IND.EMPL.MA.ZS,34.5460014343262,34.6920013427734,33.2290000915527,34.2900009155273,34.0499992370605
+Japan,JPN,Employment in services (% of total employment) (modeled ILO estimate),SL.SRV.EMPL.ZS,69.9369964599609,70.0640029907227,71.0970001220703,70.4589996337891,70.8830032348633
+Japan,JPN,"Employment in services, female (% of female employment) (modeled ILO estimate)",SL.SRV.EMPL.FE.ZS,81.7590026855469,81.9309997558594,82.2440032958984,82.0039978027344,82.411003112793
+Japan,JPN,"Employment in services, male (% of male employment) (modeled ILO estimate)",SL.SRV.EMPL.MA.ZS,61.3489990234375,61.2939987182617,62.7919998168945,61.7690010070801,62.0999984741211
+Japan,JPN,Export value index (2000 = 100),TX.VAL.MRCH.XD.WD,166.6126127,149.0963493,144.0034606,130.3551706,134.5514458
+Japan,JPN,Export volume index (2000 = 100),TX.QTY.MRCH.XD.WD,106.7485529,105.130622,105.7447101,104.6583902,104.9625178
+Japan,JPN,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,14.5447525563827,15.9153981234384,17.540301551347,17.5889281255252,16.1191525683736
+Japan,JPN,Exports of goods and services (annual % growth),NE.EXP.GNFS.KD.ZG,-0.0884886975548369,0.761212809317001,9.29036941519126,2.94131497298496,1.33853063786331
+Japan,JPN,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.41,1.43,1.42,1.45,1.44
+Japan,JPN,Fixed broadband Internet subscribers (per 100 people),IT.NET.BBND.P2,28.1347211333148,28.7723558937011,29.4850826260738,30.3751449560937,31.1593341207815
+Japan,JPN,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.00881740932468709,0.206536579102136,0.407228152348885,0.11950500566135,0.794528059194625
+Japan,JPN,"Foreign direct investment, net outflows (% of GDP)",BM.KLT.DINV.WD.GD.ZS,1.89631325936988,3.01964984845986,2.84356041386043,3.14939044995259,3.51417557992575
+Japan,JPN,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.71478661003982,2.32029808904245,2.19818626579715,1.77147496164696,1.41410732210395
+Japan,JPN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.49508958593792,2.00026784110196,0.374719476337631,1.35382311397998,0.938193886449625
+Japan,JPN,GDP per capita (constant 2005 US$),NY.GDP.PCAP.KD,45276.8743354208,46249.2095886497,46484.1552668943,47163.4942109343,47660.8930390239
+Japan,JPN,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,36367.5970553161,37148.6027499704,37337.3174057788,37882.980624441,38282.5046733349
+Japan,JPN,GDP per person employed (constant 1990 PPP $),SL.GDP.PCAP.EM.KD,73457.9140625,74247.609375,73925.5,74460.546875,74554.953125
+Japan,JPN,GINI index (World Bank estimate),SI.POV.GINI,..,..,..,..,..
+Japan,JPN,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,3.69226002693176,3.66538000106812,3.59059000015259,..,..
+Japan,JPN,Gross capital formation (% of GDP),NE.GDI.TOTL.ZS,22.6544234531794,23.190909893087,23.9161003821934,24.0053023971692,23.5642844646574
+Japan,JPN,Gross capital formation (annual % growth),NE.GDI.TOTL.KD.ZG,3.72890870523062,3.19305514278061,3.44682914417973,2.91220097598593,0.276752842054748
+Japan,JPN,"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,17.4848855618223,18.0943193588878,18.6223135542427,18.2846421840583,..
+Japan,JPN,High-technology exports (% of manufactured exports),TX.VAL.TECH.MF.ZS,17.4047867308398,16.7842941109035,16.6888237188804,16.7820615846339,16.2207455666725
+Japan,JPN,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,10.240178614,10.8912772167,11.2642233379,12.7905361396,13.0107674347
+Japan,JPN,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,16.0913711326959,18.2321241332052,20.0054682452576,18.0074731318016,15.1474298805934
+Japan,JPN,Individuals using the Internet (% of population),IT.NET.USER.ZS,79.4964,88.219428911,89.1068330166075,91.0580283929962,93.1827212821617
+Japan,JPN,"Industry, value added (% of GDP)",NV.IND.TOTL.ZS,26.7480501344359,26.9376337008392,27.6880609329877,28.8978202049754,29.3004606963226
+Japan,JPN,"Industry, value added (annual % growth)",NV.IND.TOTL.KD.ZG,0.43880381465091,2.07586013402911,3.00417771684009,1.73437409016405,1.98933146356003
+Japan,JPN,"Industry, value added (constant 2005 US$)",NV.IND.TOTL.KD,1578058414164.98,1610816699676.32,1659208496027.14,1687985378284.03,1721565002514.53
+Japan,JPN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.051939058,0.346440326,2.761954083,0.78951789,-0.116666667
+Japan,JPN,Informal payments to public officials (% of firms),IC.FRM.CORR.ZS,..,..,..,..,..
+Japan,JPN,International migrant stock (% of population),SM.POP.TOTL.ZS,..,..,..,1.61477505702794,..
+Japan,JPN,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,48.2859992980957,49.0320014953613,49.4749984741211,49.8530006408691,50.5999984741211
+Japan,JPN,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,70.9520034790039,70.8610000610352,70.7929992675781,70.7600021362305,70.9309997558594
+Japan,JPN,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.ZS,59.2830009460449,59.6199989318848,59.8139991760254,59.9900016784668,60.4560012817383
+Japan,JPN,Labor force with advanced education (% of total working-age population with advanced education),SL.TLF.ADVN.ZS,66.5599975585938,67.9199981689453,..,68.7200012207031,69.6600036621094
+Japan,JPN,"Labor force with advanced education, female (% of female working-age population with advanced education)",SL.TLF.ADVN.FE.ZS,86.8399963378906,86.7300033569336,..,85.9599990844727,85.3899993896484
+Japan,JPN,"Labor force with advanced education, male (% of male working-age population with advanced education)",SL.TLF.ADVN.MA.ZS,76.8899993896484,77.5100021362305,..,77.5599975585938,77.7200012207031
+Japan,JPN,Labor force with basic education (% of total working-age population with basic education),SL.TLF.BASC.ZS,..,..,..,..,..
+Japan,JPN,"Labor force with basic education, female (% of female working-age population with basic education)",SL.TLF.BASC.FE.ZS,..,..,..,..,..
+Japan,JPN,"Labor force with basic education, male (% of male working-age population with basic education)",SL.TLF.BASC.MA.ZS,..,..,..,..,..
+Japan,JPN,Labor force with intermediate education (% of total working-age population with intermediate education),SL.TLF.INTM.ZS,42.2099990844727,42.2999992370605,..,42.3300018310547,42.4700012207031
+Japan,JPN,"Labor force with intermediate education, female (% of female working-age population with intermediate education)",SL.TLF.INTM.FE.ZS,68.4000015258789,67.5899963378906,..,67.1699981689453,67.0699996948242
+Japan,JPN,"Labor force with intermediate education, male (% of male working-age population with intermediate education)",SL.TLF.INTM.MA.ZS,54.2799987792969,53.9099998474121,..,53.7099990844727,53.7799987792969
+Japan,JPN,"Labor force, total",SL.TLF.TOTL.IN,65650470,65992810,66182686,66363239,66844279
+Japan,JPN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,86.41,86.61,86.83,86.99,87.14
+Japan,JPN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,79.94,80.21,80.5,80.75,80.98
+Japan,JPN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.00793102105190244,0.00773342931823904,0.00759089647579449,0.00748458839982738,..
+Japan,JPN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,..,..,..,..,..
+Japan,JPN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,..,..,..,..,..
+Japan,JPN,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,..,..,..,..,..
+Japan,JPN,"Literacy rate, youth female (% of females ages 15-24)",SE.ADT.1524.LT.FE.ZS,..,..,..,..,..
+Japan,JPN,"Literacy rate, youth male (% of males ages 15-24)",SE.ADT.1524.LT.MA.ZS,..,..,..,..,..
+Japan,JPN,"Literacy rate, youth total (% of people ages 15-24)",SE.ADT.1524.LT.ZS,..,..,..,..,..
+Japan,JPN,"Manufacturing, value added (% of GDP)",NV.IND.MANF.ZS,19.7315242610876,19.4362564480472,19.7312970444232,20.7192372427986,21.0489523736651
+Japan,JPN,"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,2.41714007806183,-0.0890124668134149,2.99362503379889,3.7679030625454,1.96338917877912
+Japan,JPN,"Manufacturing, value added (constant 2005 US$)",NV.IND.MANF.KD,1183062856848.45,1182009783415.62,1217394724193.9,1263264977290.07,1288067785153.49
+Japan,JPN,Market capitalization of listed companies (% of GDP),CM.MKT.LCAP.GD.ZS,56.0811220242552,88.1190548359167,90.2602291015428,111.375287776936,100.12176151687
+Japan,JPN,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,109.891188713995,115.255418550213,123.168736237678,125.461837619826,130.610328904572
+Japan,JPN,"New business density (new registrations per 1,000 people ages 15-64)",IC.BUS.NDNS.ZS,0.123658137650739,..,0.152658992523344,..,..
+Japan,JPN,New businesses registered (number),IC.BUS.NREG,9857,..,11886,..,..
+Japan,JPN,Number of visits or required meetings with tax officials,IC.TAX.METG,..,..,..,..,..
+Japan,JPN,"Own-account workers, female (% of female employment) (modeled ILO estimate)",SL.EMP.OWAC.FE.ZS,4.40100002288818,4.28800010681152,4.39099979400635,4.12900018692017,3.95499992370605
+Japan,JPN,"Own-account workers, male (% of male employment) (modeled ILO estimate)",SL.EMP.OWAC.MA.ZS,8.41899967193604,8.32600021362305,8.38199996948242,8.30500030517578,7.93300008773804
+Japan,JPN,"Own-account workers, total (% of male employment) (modeled ILO estimate)",SL.EMP.OWAC.ZS,6.72800016403198,6.6100001335144,6.67799997329712,6.51200008392334,6.21199989318848
+Japan,JPN,"Personal remittances, paid (current US$)",BM.TRF.PWKR.CD.DT,4042571070.64493,2872330559.77684,4214761758.33123,4000341421.20351,5066869685.05946
+Japan,JPN,"Personal transfers, receipts (BoP, current US$)",BX.TRF.PWKR.CD,2327442336.52259,2239706136.4069,3552650671.04022,3174016342.6377,3673006450.15015
+Japan,JPN,Population ages 0-14 (% of total),SP.POP.0014.TO.ZS,13.2322591906037,13.1475941783571,13.0649248164092,12.9912205167514,12.9357482227601
+Japan,JPN,"Population ages 0-14, total",SP.POP.0014.TO,16888200,16755951,16628514,16517168,16427690
+Japan,JPN,Population ages 15-64 (% of total),SP.POP.1564.TO.ZS,62.8870380715539,62.222578988928,61.5826784719472,60.9934148210465,60.4996889474557
+Japan,JPN,"Population ages 15-64, total",SP.POP.1564.TO,80262098,79299566,78379970,77547638,76831284
+Japan,JPN,Population ages 65 and above (% of total),SP.POP.65UP.TO.ZS,23.8807027378424,24.6298268327149,25.3523967116436,26.0153646622021,26.5645628297842
+Japan,JPN,"Population ages 65 and above, total",SP.POP.65UP.TO,30478702,31389483,32267516,33076195,33735537
+Japan,JPN,Population density (people per sq. km of land area),EN.POP.DNST,350.090520078999,349.585802062761,349.122229536976,348.751920122888,348.350096006144
+Japan,JPN,Population growth (annual %),SP.POP.GROW,-0.159710675844347,-0.144271883387076,-0.132694222147042,-0.106124993746747,-0.115284177050088
+Japan,JPN,"Population, total",SP.POP.TOTL,127629000,127445000,127276000,127141000,126994511
+Japan,JPN,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,..,..,..,..,..
+Japan,JPN,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.1,0.1,0.1,0.1,0.1
+Japan,JPN,"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS,101.777282714844,..,..,..,..
+Japan,JPN,"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS,101.542152404785,..,..,..,..
+Japan,JPN,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,101.656578063965,..,..,..,..
+Japan,JPN,Private credit bureau coverage (% of adults),IC.CRD.PRVT.ZS,..,100,100,100,100
+Japan,JPN,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,..,0,0,0,0
+Japan,JPN,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,3.20881,3.31612,3.3994,3.28363,..
+Japan,JPN,Researchers in R&D (per million people),SP.POP.SCIE.RD.P6,5083.74949,5201.31659,5386.15362,5230.72444,..
+Japan,JPN,Rural population,SP.RUR.TOTL,11297719,11182024,11067921,10958283,10849141
+Japan,JPN,Rural population (% of total population),SP.RUR.TOTL.ZS,8.852,8.774,8.696,8.619,8.54300000000001
+Japan,JPN,"School enrollment, primary (% gross)",SE.PRM.ENRR,101.261543273926,100.24089050293,99.5385284423828,98.7999420166016,..
+Japan,JPN,"School enrollment, primary, female (% gross)",SE.PRM.ENRR.FE,101.417961120605,100.396179199219,99.7261962890625,98.9635772705078,..
+Japan,JPN,"School enrollment, primary, male (% gross)",SE.PRM.ENRR.MA,101.113273620605,100.093681335449,99.3606262207031,98.6448211669922,..
+Japan,JPN,"School enrollment, secondary (% gross)",SE.SEC.ENRR,101.242561340332,101.538688659668,101.388618469238,102.142272949219,..
+Japan,JPN,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.00812995433807,1.0081399679184,1.00713002681732,1.00591003894806,..
+Japan,JPN,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,101.663131713867,101.961143493652,101.758232116699,102.451110839844,..
+Japan,JPN,"School enrollment, secondary, male (% gross)",SE.SEC.ENRR.MA,100.843658447266,101.137939453125,101.03800201416,101.849349975586,..
+Japan,JPN,"School enrollment, tertiary (% gross)",SE.TER.ENRR,61.4053611755371,62.1084785461426,62.9269981384277,63.2375793457031,..
+Japan,JPN,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.905219972133636,0.917339980602264,0.931129992008209,0.941200017929077,..
+Japan,JPN,"School enrollment, tertiary, female (% gross)",SE.TER.ENRR.FE,58.2760581970215,59.3651504516602,60.6273307800293,61.2742118835449,..
+Japan,JPN,"School enrollment, tertiary, male (% gross)",SE.TER.ENRR.MA,64.3774719238281,64.7142562866211,65.1113433837891,65.1022186279297,..
+Japan,JPN,"Self-employed, female (% of female employment) (modeled ILO estimate)",SL.EMP.SELF.FE.ZS,10.7790002822876,10.4840002059937,10.3020000457764,9.80000019073486,9.21199989318848
+Japan,JPN,"Self-employed, male (% of male employment) (modeled ILO estimate)",SL.EMP.SELF.MA.ZS,12.628999710083,12.4630002975464,12.4209995269775,12.1540002822876,11.7349996566772
+Japan,JPN,"Self-employed, total (% of total employment) (modeled ILO estimate)",SL.EMP.SELF.ZS,11.8509998321533,11.621000289917,11.5159997940063,11.1429996490479,10.6440000534058
+Japan,JPN,Tax payments (number),IC.TAX.PAYM,..,13,14,14,14
+Japan,JPN,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,9.68241294398788,10.3606176452117,11.4692065790191,11.4092706985788,11.1033645354834
+Japan,JPN,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,55.671503511825,57.8491946420727,53.9040509013786,52.7368495626544,52.2077222608789
+Japan,JPN,Technicians in R&D (per million people),SP.POP.TECH.RD.P6,517.76068,519.21895,542.78352,527.77248,..
+Japan,JPN,Telephone lines (per 100 people),IT.MLT.MAIN.P2,50.0093921510708,49.8930762389321,49.5910964792433,49.7796975248861,50.1760666286581
+Japan,JPN,Time required to enforce a contract (days),IC.LGL.DURS,..,360,360,360,360
+Japan,JPN,Time required to obtain an operating license (days),IC.FRM.DURS,..,..,..,..,..
+Japan,JPN,Time required to register property (days),IC.PRP.DURS,..,13,13,13,13
+Japan,JPN,Time required to start a business (days),IC.REG.DURS,..,12.7,12.1,12.1,12.2
+Japan,JPN,Time to prepare and pay taxes (hours),IC.TAX.DURS,..,221,221,204,151
+Japan,JPN,Time to resolve insolvency (years),IC.ISV.DURS,..,0.6,0.6,0.6,0.6
+Japan,JPN,"Total employment, total (ages 15+)",SL.EMP.TOTL,62794462,63334058,63813725,64152974,64752352
+Japan,JPN,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,3.5,3.32999992370605,..,2.63000011444092,..
+Japan,JPN,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,3.48000001907349,3.45000004768372,..,2.77999997138977,..
+Japan,JPN,"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS,3.49000000953674,3.40000009536743,..,2.72000002861023,..
+Japan,JPN,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,4.5,4.09000015258789,..,3.54999995231628,..
+Japan,JPN,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS,5.5,5.1100001335144,..,4.38000011444092,..
+Japan,JPN,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS,5.07999992370605,4.71000003814697,..,4.01999998092651,..
+Japan,JPN,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.0479998588562,3.67199993133545,3.35599994659424,3.0220000743866,2.83999991416931
+Japan,JPN,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.56799983978271,4.29300022125244,3.74600005149841,3.56100010871887,3.34999990463257
+Japan,JPN,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,4.34999990463257,4.03000020980835,3.57999992370605,3.32999992370605,3.13000011444092
+Japan,JPN,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,7.50099992752075,6.08699989318848,5.41599988937378,5.06899976730347,4.4980001449585
+Japan,JPN,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,8.6569995880127,7.54300022125244,7.12799978256226,5.93699979782104,5.77799987792969
+Japan,JPN,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,8.09000015258789,6.82200002670288,6.28499984741211,5.51300001144409,5.15399980545044
+Japan,JPN,Urban population,SP.URB.TOTL,116331281,116262976,116208079,116182717,116145370
+Japan,JPN,Urban population (% of total),SP.URB.TOTL.IN.ZS,91.148,91.226,91.304,91.381,91.457
+Japan,JPN,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,9.89900016784668,9.58100032806396,9.40799999237061,8.95100021362305,8.3769998550415
+Japan,JPN,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,9.39999967813492,9.22600018978119,9.30699998140335,9.14700031280517,8.7710000872612
+Japan,JPN,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,9.60900020599365,9.37700009346008,9.34999990463257,9.06300020217896,8.59999990463257
+Japan,JPN,"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)",SL.EMP.WORK.FE.ZS,89.2210006713867,89.515998840332,89.697998046875,90.1999969482422,90.7880020141602
+Japan,JPN,"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)",SL.EMP.WORK.MA.ZS,87.3710021972656,87.5370025634766,87.5790023803711,87.8460006713867,88.2649993896484
+Japan,JPN,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,88.1490020751953,88.3789978027344,88.484001159668,88.8570022583008,89.3560028076172
+United Kingdom,GBR,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100
+United Kingdom,GBR,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,17.744,16.6948,15.6456,14.5964,13.5472
+United Kingdom,GBR,Age dependency ratio (% of working-age population),SP.POP.DPND,53.2604097913837,54.0156494603875,54.7828484362642,55.5359676105076,56.1748670126333
+United Kingdom,GBR,"Agriculture, value added (% of GDP)",NV.AGR.TOTL.ZS,0.603480247444703,0.653731639652758,0.639227200823924,0.592777078015626,0.537102883852838
+United Kingdom,GBR,"Agriculture, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,-7.21922612578346,0.50989180922933,12.2260551891504,1.22050491429016,-6.2522334060202
+United Kingdom,GBR,"Agriculture, value added (constant 2005 US$)",NV.AGR.TOTL.KD,16550004683.3684,16634391801.6759,18668121723.7283,18895967066.7721,17714547101.4328
+United Kingdom,GBR,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,1050702.90909091,1052640,1064175.7,1104117,1180312
+United Kingdom,GBR,"Automated teller machines (ATMs) (per 100,000 adults)",FB.ATM.TOTL.P5,125.949709186783,128.519408780396,129.498950975324,131.305956851378,129.492222872419
+United Kingdom,GBR,"Borrowers from commercial banks (per 1,000 adults)",FB.CBK.BRWR.P3,59.3430450034804,..,..,..,..
+United Kingdom,GBR,Consumer price index (2010 = 100),FP.CPI.TOTL,107.389116660455,110.147223257548,111.768542676109,111.824450242266,112.541930674618
+United Kingdom,GBR,"Contributing family workers, female (% of female employment) (modeled ILO estimate)",SL.FAM.WORK.FE.ZS,0.46900001168251,0.5,0.444999992847443,0.395000010728836,0.428999990224838
+United Kingdom,GBR,"Contributing family workers, male (% of male employment) (modeled ILO estimate)",SL.FAM.WORK.MA.ZS,0.291999995708466,0.268999993801117,0.33500000834465,0.28600001335144,0.33899998664856
+United Kingdom,GBR,"Contributing family workers, total (% of total employment) (modeled ILO estimate)",SL.FAM.WORK.ZS,0.374000012874603,0.377000004053116,0.386000007390976,0.337000012397766,0.381000012159348
+United Kingdom,GBR,CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ,..,..,..,..,..
+United Kingdom,GBR,CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ,..,..,..,..,..
+United Kingdom,GBR,CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ,..,..,..,..,..
+United Kingdom,GBR,CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ,..,..,..,..,..
+United Kingdom,GBR,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ,..,..,..,..,..
+United Kingdom,GBR,CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ,..,..,..,..,..
+United Kingdom,GBR,CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ,..,..,..,..,..
+United Kingdom,GBR,Depth of credit information index (0=low to 8=high),IC.CRD.INFO.XQ,..,8,8,8,8
+United Kingdom,GBR,Domestic credit provided by financial sector (% of GDP),FS.AST.DOMS.GD.ZS,192.182233427386,179.968384867799,166.874605991887,161.13180395153,165.786622700122
+United Kingdom,GBR,Domestic credit to private sector (% of GDP),FS.AST.PRVT.GD.ZS,163.474735878355,152.009010849309,137.389681387999,132.787995364098,134.255550954485
+United Kingdom,GBR,Ease of doing business index (1=most business-friendly regulations),IC.BUS.EASE.XQ,..,..,..,..,..
+United Kingdom,GBR,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,5449.25220132401,5409.63038646976,5129.5277927902,..,..
+United Kingdom,GBR,"Employers, female (% of female employment) (modeled ILO estimate)",SL.EMP.MPYR.FE.ZS,1.43299996852875,1.44400000572205,1.44599997997284,1.35199999809265,1.40499997138977
+United Kingdom,GBR,"Employers, male (% of male employment) (modeled ILO estimate)",SL.EMP.MPYR.MA.ZS,3.51399993896484,3.40499997138977,3.53299999237061,3.42700004577637,3.34599995613098
+United Kingdom,GBR,"Employers, total (% of total employment) (modeled ILO estimate)",SL.EMP.MPYR.ZS,2.54900002479553,2.49300003051758,2.56200003623962,2.46199989318848,2.44199991226196
+United Kingdom,GBR,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,1.18799996376038,1.05799996852875,1.25499999523163,1.13699996471405,1.12399995326996
+United Kingdom,GBR,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,0.685999989509583,0.601000010967255,0.712000012397766,0.644999980926514,0.625
+United Kingdom,GBR,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,1.62199997901917,1.4559999704361,1.72800004482269,1.56599998474121,1.55900001525879
+United Kingdom,GBR,Employment in industry (% of total employment) (modeled ILO estimate),SL.IND.EMPL.ZS,19.0659999847412,18.8649997711182,18.9650001525879,18.6560001373291,18.4580001831055
+United Kingdom,GBR,"Employment in industry, female (% of female employment) (modeled ILO estimate)",SL.IND.EMPL.FE.ZS,7.64699983596802,7.68100023269653,7.93699979782104,7.67000007629395,7.59700012207031
+United Kingdom,GBR,"Employment in industry, male (% of male employment) (modeled ILO estimate)",SL.IND.EMPL.MA.ZS,28.9360008239746,28.5909996032715,28.568000793457,28.2180004119873,27.9270000457764
+United Kingdom,GBR,Employment in services (% of total employment) (modeled ILO estimate),SL.SRV.EMPL.ZS,79.7460021972656,80.0770034790039,79.7809982299805,80.2070007324219,80.4189987182617
+United Kingdom,GBR,"Employment in services, female (% of female employment) (modeled ILO estimate)",SL.SRV.EMPL.FE.ZS,91.6669998168945,91.7180023193359,91.3519973754883,91.6859970092773,91.7779998779297
+United Kingdom,GBR,"Employment in services, male (% of male employment) (modeled ILO estimate)",SL.SRV.EMPL.MA.ZS,69.4410018920898,69.9530029296875,69.7040023803711,70.2160034179688,70.5139999389648
+United Kingdom,GBR,Export value index (2000 = 100),TX.VAL.MRCH.XD.WD,166.0547636,189.6576868,177.237837,161.4331247,143.7137362
+United Kingdom,GBR,Export volume index (2000 = 100),TX.QTY.MRCH.XD.WD,86.565911,96.97732997,91.26784215,97.98488665,89.75650714
+United Kingdom,GBR,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,29.7322316011215,29.6660188502038,28.2475496199911,27.381313544448,28.2552280306075
+United Kingdom,GBR,Exports of goods and services (annual % growth),NE.EXP.GNFS.KD.ZG,0.227655151606896,0.839843520705656,2.65482298586799,4.97320667705566,2.32248758749296
+United Kingdom,GBR,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.92,1.83,1.81,1.8,1.8
+United Kingdom,GBR,Fixed broadband Internet subscribers (per 100 people),IT.NET.BBND.P2,33.7518390956124,35.642647534982,36.4985766665601,37.7486059010586,38.2887885668414
+United Kingdom,GBR,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.75617182654181,1.98820366396463,1.94819055209493,2.02561541839338,10.0273704206509
+United Kingdom,GBR,"Foreign direct investment, net outflows (% of GDP)",BM.KLT.DINV.WD.GD.ZS,0.45165874801994,1.68810105917331,-3.76850270914279,-1.94253863163742,1.97742328229117
+United Kingdom,GBR,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,13.9358588806109,13.3683272451068,11.7632102646742,7.65493456569077,6.52305085998219
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.48132982903095,2.05238850842331,3.05425101175238,2.34593951714504,1.93579094969158
+United Kingdom,GBR,GDP per capita (constant 2005 US$),NY.GDP.PCAP.KD,39455.4121361028,39996.5019019858,40908.7458550667,41536.9191150355,42039.7363643926
+United Kingdom,GBR,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,36892.8503113158,37398.7972183927,38251.7924802929,38839.1669568199,39309.3270821404
+United Kingdom,GBR,GDP per person employed (constant 1990 PPP $),SL.GDP.PCAP.EM.KD,77278.28125,77759.0703125,78378.078125,78949.96875,79377.65625
+United Kingdom,GBR,GINI index (World Bank estimate),SI.POV.GINI,32.3,33.2,34,33.2,..
+United Kingdom,GBR,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,..,5.61871004104614,5.69341993331909,5.63148021697998,..
+United Kingdom,GBR,Gross capital formation (% of GDP),NE.GDI.TOTL.ZS,15.7574804551321,16.3579553040876,17.1107453096303,16.972347129325,16.9685801179742
+United Kingdom,GBR,Gross capital formation (annual % growth),NE.GDI.TOTL.KD.ZG,6.21440085318375,10.3113095385165,10.9095753958152,4.07990986518294,0.926806907415894
+United Kingdom,GBR,"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,..,..,..,..,..
+United Kingdom,GBR,High-technology exports (% of manufactured exports),TX.VAL.TECH.MF.ZS,21.739378218344,21.8645381710652,20.647166584182,20.8121555995786,21.8337221434488
+United Kingdom,GBR,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,7.300886478,7.8615981765,7.8162668549,8.2898303803,7.627615285
+United Kingdom,GBR,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,31.7120265839873,31.6840451135885,30.252435682628,29.0951572399969,30.3270852147215
+United Kingdom,GBR,Individuals using the Internet (% of population),IT.NET.USER.ZS,87.4799984242111,89.8441,91.61,92.0003,94.7758006318882
+United Kingdom,GBR,"Industry, value added (% of GDP)",NV.IND.TOTL.ZS,17.9224732602471,18.1540197905457,17.8297738454119,17.848223442438,17.9851791183363
+United Kingdom,GBR,"Industry, value added (annual % growth)",NV.IND.TOTL.KD.ZG,-3.94524853040571,-0.112089836720457,3.65072655717296,2.17906472473221,1.452365438379
+United Kingdom,GBR,"Industry, value added (constant 2005 US$)",NV.IND.TOTL.KD,422794573524.539,422320663777.412,437738436406.363,447277040260.689,453773137407.239
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.821709747,2.554546687,1.460191609,0.050020842,0.641613199
+United Kingdom,GBR,Informal payments to public officials (% of firms),IC.FRM.CORR.ZS,..,..,..,..,..
+United Kingdom,GBR,International migrant stock (% of population),SM.POP.TOTL.ZS,..,..,..,13.200978246274,..
+United Kingdom,GBR,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,55.7799987792969,56.1440010070801,56.4249992370605,56.5530014038086,56.773998260498
+United Kingdom,GBR,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,68.4860000610352,68.3960037231445,68.254997253418,68.1869964599609,68.1750030517578
+United Kingdom,GBR,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.ZS,61.9770011901855,62.1240005493164,62.2039985656738,62.2400016784668,62.351001739502
+United Kingdom,GBR,Labor force with advanced education (% of total working-age population with advanced education),SL.TLF.ADVN.ZS,79.810302734375,80.693603515625,80.5154037475586,80.3990020751953,80.3992004394531
+United Kingdom,GBR,"Labor force with advanced education, female (% of female working-age population with advanced education)",SL.TLF.ADVN.FE.ZS,87.7884979248047,87.7313995361328,87.1171035766602,87.4369964599609,87.4442977905273
+United Kingdom,GBR,"Labor force with advanced education, male (% of male working-age population with advanced education)",SL.TLF.ADVN.MA.ZS,83.6755981445313,84.0663986206055,83.6852035522461,83.7657012939453,83.7750015258789
+United Kingdom,GBR,Labor force with basic education (% of total working-age population with basic education),SL.TLF.BASC.ZS,46.7958984375,46.6689987182617,47.7951011657715,47.5810012817383,49.2779998779297
+United Kingdom,GBR,"Labor force with basic education, female (% of female working-age population with basic education)",SL.TLF.BASC.FE.ZS,68.0188980102539,68.061897277832,67.5149993896484,67.0876007080078,68.2353973388672
+United Kingdom,GBR,"Labor force with basic education, male (% of male working-age population with basic education)",SL.TLF.BASC.MA.ZS,56.6151008605957,56.6384010314941,56.9580993652344,56.8886985778809,58.5559997558594
+United Kingdom,GBR,Labor force with intermediate education (% of total working-age population with intermediate education),SL.TLF.INTM.ZS,70.0550003051758,69.7107009887695,69.3300018310547,69.272102355957,69.2317962646484
+United Kingdom,GBR,"Labor force with intermediate education, female (% of female working-age population with intermediate education)",SL.TLF.INTM.FE.ZS,78.9821014404297,78.7242965698242,78.7880020141602,78.706901550293,78.8884963989258
+United Kingdom,GBR,"Labor force with intermediate education, male (% of male working-age population with intermediate education)",SL.TLF.INTM.MA.ZS,74.713996887207,74.4399032592773,74.293098449707,74.1857986450195,74.2388000488281
+United Kingdom,GBR,"Labor force, total",SL.TLF.TOTL.IN,32543044,32852108,33143711,33408045,33693492
+United Kingdom,GBR,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,82.8,82.9,83.2,82.8,82.8
+United Kingdom,GBR,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,79.1,79.2,79.5,79.2,79.2
+United Kingdom,GBR,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.01772334894058,0.0175654215190124,0.0174444551171539,0.0173432025961854,..
+United Kingdom,GBR,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,..,..,..,..,..
+United Kingdom,GBR,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,..,..,..,..,..
+United Kingdom,GBR,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,..,..,..,..,..
+United Kingdom,GBR,"Literacy rate, youth female (% of females ages 15-24)",SE.ADT.1524.LT.FE.ZS,..,..,..,..,..
+United Kingdom,GBR,"Literacy rate, youth male (% of males ages 15-24)",SE.ADT.1524.LT.MA.ZS,..,..,..,..,..
+United Kingdom,GBR,"Literacy rate, youth total (% of people ages 15-24)",SE.ADT.1524.LT.ZS,..,..,..,..,..
+United Kingdom,GBR,"Manufacturing, value added (% of GDP)",NV.IND.MANF.ZS,8.80630182913261,9.04999218283716,8.85544418206898,8.96736814072049,9.01502614715651
+United Kingdom,GBR,"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,-1.43605068367208,-0.987156788786521,2.91079868792978,-0.00885551975461851,0.233807641512925
+United Kingdom,GBR,"Manufacturing, value added (constant 2005 US$)",NV.IND.MANF.KD,219644516895.024,217476281135.297,223806577873.142,223786758637.426,224309989179.814
+United Kingdom,GBR,Market capitalization of listed companies (% of GDP),CM.MKT.LCAP.GD.ZS,..,..,..,..,..
+United Kingdom,GBR,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,121.912766829369,121.708890828143,120.679621837721,121.183993230279,119.977347434222
+United Kingdom,GBR,"New business density (new registrations per 1,000 people ages 15-64)",IC.BUS.NDNS.ZS,11.9350940580717,12.5555630510538,14.0560721330966,14.5639978719955,15.7421014439638
+United Kingdom,GBR,New businesses registered (number),IC.BUS.NREG,492754,522439,585872,611478,663616
+United Kingdom,GBR,Number of visits or required meetings with tax officials,IC.TAX.METG,..,..,..,..,..
+United Kingdom,GBR,"Own-account workers, female (% of female employment) (modeled ILO estimate)",SL.EMP.OWAC.FE.ZS,7.83300018310547,7.91400003433228,8.64700031280518,8.70600032806396,9.07199954986572
+United Kingdom,GBR,"Own-account workers, male (% of male employment) (modeled ILO estimate)",SL.EMP.OWAC.MA.ZS,15.2449998855591,15.2419996261597,15.6260004043579,15.3620004653931,15.8179998397827
+United Kingdom,GBR,"Own-account workers, total (% of male employment) (modeled ILO estimate)",SL.EMP.OWAC.ZS,11.8090000152588,11.8339996337891,12.3780002593994,12.2650003433228,12.6750001907349
+United Kingdom,GBR,"Personal remittances, paid (current US$)",BM.TRF.PWKR.CD.DT,10077435197.2653,10528125661.6366,11571027572.4211,10705712114.4564,10190899107.2853
+United Kingdom,GBR,"Personal transfers, receipts (BoP, current US$)",BX.TRF.PWKR.CD,3168822670.73191,3092589687.8893,3154048672.69099,3019390363.59653,2725130995.31151
+United Kingdom,GBR,Population ages 0-14 (% of total),SP.POP.0014.TO.ZS,17.5698397191112,17.5378609680434,17.5364818883861,17.5846735053002,17.618799580608
+United Kingdom,GBR,"Population ages 0-14, total",SP.POP.0014.TO,11192041,11246719,11330875,11452698,11557151
+United Kingdom,GBR,Population ages 15-64 (% of total),SP.POP.1564.TO.ZS,65.2484228485675,64.9284673484103,64.60664123424,64.2938109774932,64.0307889938457
+United Kingdom,GBR,"Population ages 15-64, total",SP.POP.1564.TO,41563441,41637474,41744392,41873827,42001358
+United Kingdom,GBR,Population ages 65 and above (% of total),SP.POP.65UP.TO.ZS,17.1817374323214,17.5336716835463,17.8568768773739,18.1215155172066,18.3504114255463
+United Kingdom,GBR,"Population ages 65 and above, total",SP.POP.65UP.TO,10944818,11244033,11537892,11802337,12037056
+United Kingdom,GBR,Population density (people per sq. km of land area),EN.POP.DNST,263.30054147894,265.06934237176,267.073781672385,269.205394122267,271.134481048237
+United Kingdom,GBR,Population growth (annual %),SP.POP.GROW,0.695315842711388,0.669533807456598,0.753349499398544,0.794967909295267,0.714030265261993
+United Kingdom,GBR,"Population, total",SP.POP.TOTL,63700300,64128226,64613160,65128861,65595565
+United Kingdom,GBR,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.2,0.2,0.2,0.2,..
+United Kingdom,GBR,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,..,..,..,..,..
+United Kingdom,GBR,"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS,..,..,..,102.168357849121,..
+United Kingdom,GBR,"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS,..,..,..,102.405166625977,..
+United Kingdom,GBR,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,..,..,..,102.289558410645,..
+United Kingdom,GBR,Private credit bureau coverage (% of adults),IC.CRD.PRVT.ZS,100,100,100,100,100
+United Kingdom,GBR,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,0,0,0,0,0
+United Kingdom,GBR,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.6075,1.65949,1.6813,1.70304,..
+United Kingdom,GBR,Researchers in R&D (per million people),SP.POP.SCIE.RD.P6,4029.27837,4185.68935,4299.36273,4470.78388,..
+United Kingdom,GBR,Rural population,SP.RUR.TOTL,11569885,11477670,11394531,11315488,11226025
+United Kingdom,GBR,Rural population (% of total population),SP.RUR.TOTL.ZS,18.163,17.898,17.635,17.374,17.114
+United Kingdom,GBR,"School enrollment, primary (% gross)",SE.PRM.ENRR,106.52619934082,107.341743469238,107.557891845703,101.909240722656,..
+United Kingdom,GBR,"School enrollment, primary, female (% gross)",SE.PRM.ENRR.FE,106.511360168457,107.221946716309,107.458488464355,101.848808288574,..
+United Kingdom,GBR,"School enrollment, primary, male (% gross)",SE.PRM.ENRR.MA,106.54035949707,107.456047058105,107.652778625488,101.966941833496,..
+United Kingdom,GBR,"School enrollment, secondary (% gross)",SE.SEC.ENRR,91.955078125,124.538673400879,127.304107666016,125.485496520996,..
+United Kingdom,GBR,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.00092995166779,1.04513001441956,1.04024994373322,1.03164005279541,..
+United Kingdom,GBR,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,91.998893737793,127.353256225586,129.876327514648,127.486679077148,..
+United Kingdom,GBR,"School enrollment, secondary, male (% gross)",SE.SEC.ENRR.MA,91.9132995605469,121.854148864746,124.85066986084,123.576797485352,..
+United Kingdom,GBR,"School enrollment, tertiary (% gross)",SE.TER.ENRR,59.8406791687012,57.6064682006836,57.2700004577637,57.2948913574219,..
+United Kingdom,GBR,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.32880997657776,1.32479000091553,1.32334005832672,1.33698999881744,..
+United Kingdom,GBR,"School enrollment, tertiary, female (% gross)",SE.TER.ENRR.FE,68.4449462890625,65.8240737915039,65.4251327514648,65.7617568969727,..
+United Kingdom,GBR,"School enrollment, tertiary, male (% gross)",SE.TER.ENRR.MA,51.5083694458008,49.6864891052246,49.4393997192383,49.1863594055176,..
+United Kingdom,GBR,"Self-employed, female (% of female employment) (modeled ILO estimate)",SL.EMP.SELF.FE.ZS,9.73600006103516,9.85799980163574,10.5380001068115,10.4530000686646,10.9049997329712
+United Kingdom,GBR,"Self-employed, male (% of male employment) (modeled ILO estimate)",SL.EMP.SELF.MA.ZS,19.0510005950928,18.9169998168945,19.4939994812012,19.0750007629395,19.5030002593994
+United Kingdom,GBR,"Self-employed, total (% of total employment) (modeled ILO estimate)",SL.EMP.SELF.ZS,14.7320003509521,14.7040004730225,15.3249998092651,15.0629997253418,15.4980001449585
+United Kingdom,GBR,Tax payments (number),IC.TAX.PAYM,8,8,8,8,8
+United Kingdom,GBR,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,25.2379355872361,25.2251856433525,24.9209335340887,25.159723137737,25.5971162999647
+United Kingdom,GBR,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,46.8444638809732,46.2474411029553,45.5998409831088,45.8389186891442,46.596265851625
+United Kingdom,GBR,Technicians in R&D (per million people),SP.POP.TECH.RD.P6,1077.2305,1207.31624,1248.42557,1346.03121,..
+United Kingdom,GBR,Telephone lines (per 100 people),IT.MLT.MAIN.P2,51.6688256698448,51.6449253424021,51.1231751057737,50.7843744705421,50.9407788653391
+United Kingdom,GBR,Time required to enforce a contract (days),IC.LGL.DURS,437,437,437,437,437
+United Kingdom,GBR,Time required to obtain an operating license (days),IC.FRM.DURS,..,..,..,..,..
+United Kingdom,GBR,Time required to register property (days),IC.PRP.DURS,28.5,21.5,21.5,21.5,21.5
+United Kingdom,GBR,Time required to start a business (days),IC.REG.DURS,11.5,11.5,6,4.5,4.5
+United Kingdom,GBR,Time to prepare and pay taxes (hours),IC.TAX.DURS,110,110,110,110,110
+United Kingdom,GBR,Time to resolve insolvency (years),IC.ISV.DURS,1,1,1,1,1
+United Kingdom,GBR,"Total employment, total (ages 15+)",SL.EMP.TOTL,29975391,30378310,31118452,31637269,32072880
+United Kingdom,GBR,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,4.26310014724731,3.66960000991821,3.18269991874695,2.93849992752075,3.08850002288818
+United Kingdom,GBR,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,4.30849981307983,4.19490003585815,3.15879988670349,2.94829988479614,2.76609992980957
+United Kingdom,GBR,"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS,4.28620004653931,3.93230009078979,3.17070007324219,2.94339990615845,2.92720007896423
+United Kingdom,GBR,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,8.28509998321533,8.04450035095215,6.79360008239746,6.04180002212524,5.33400011062622
+United Kingdom,GBR,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS,8.79459953308105,8.39939975738525,6.89039993286133,5.90829992294312,5.35430002212524
+United Kingdom,GBR,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS,8.56620025634766,8.24139976501465,6.84749984741211,5.96799993515015,5.3452000617981
+United Kingdom,GBR,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.38700008392334,7.03999996185303,5.82000017166138,5.1230001449585,4.67600011825562
+United Kingdom,GBR,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,8.31999969482422,7.9520001411438,6.36100006103516,5.45300006866455,4.92700004577637
+United Kingdom,GBR,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,7.8899998664856,7.53000020980835,6.1100001335144,5.30000019073486,4.80999994277954
+United Kingdom,GBR,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,18.2159996032715,18.1410007476807,14.7930002212524,12.9320001602173,11.076000213623
+United Kingdom,GBR,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,23.875,22.9659996032715,18.9209995269775,16.1749992370605,14.7620000839233
+United Kingdom,GBR,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,21.2099990844727,20.6800003051758,16.9599990844727,14.6300001144409,12.9899997711182
+United Kingdom,GBR,Urban population,SP.URB.TOTL,52130415,52650556,53218629,53813373,54369540
+United Kingdom,GBR,Urban population (% of total),SP.URB.TOTL.IN.ZS,81.837,82.102,82.365,82.626,82.886
+United Kingdom,GBR,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,8.30200019478798,8.41400003433228,9.09200030565262,9.1010003387928,9.50099954009056
+United Kingdom,GBR,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,15.5369998812676,15.5109996199608,15.9610004127025,15.6480004787445,16.1569998264313
+United Kingdom,GBR,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,12.1830000281334,12.2109996378422,12.7640002667904,12.6020003557206,13.0560002028942
+United Kingdom,GBR,"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)",SL.EMP.WORK.FE.ZS,90.2639999389648,90.1419982910156,89.4619979858398,89.5469970703125,89.0950012207031
+United Kingdom,GBR,"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)",SL.EMP.WORK.MA.ZS,80.9489974975586,81.0830001831055,80.5059967041016,80.9250030517578,80.4970016479492
+United Kingdom,GBR,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,85.2679977416992,85.2959976196289,84.6750030517578,84.9369964599609,84.5019989013672
+United States,USA,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100
+United States,USA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,27.919,26.093,24.267,22.441,20.615
+United States,USA,Age dependency ratio (% of working-age population),SP.POP.DPND,50.0098349319469,50.3196749076148,50.7077211515286,51.1789017097804,51.6523481467354
+United States,USA,"Agriculture, value added (% of GDP)",NV.AGR.TOTL.ZS,1.20242882579074,1.38033311771482,1.2176169375845,1.06993627844907,1.01445991363515
+United States,USA,"Agriculture, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,-8.12108471416364,19.3914551815584,1.22867030483627,8.10370911929388,11.2814705869709
+United States,USA,"Agriculture, value added (constant 2005 US$)",NV.AGR.TOTL.KD,148043922600,176751793500,178923490300,193422929500,215243880400
+United States,USA,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,9864360,9745498,9556324,9498668,9640591
+United States,USA,"Automated teller machines (ATMs) (per 100,000 adults)",FB.ATM.TOTL.P5,..,..,..,..,..
+United States,USA,"Borrowers from commercial banks (per 1,000 adults)",FB.CBK.BRWR.P3,..,..,..,..,..
+United States,USA,Consumer price index (2010 = 100),FP.CPI.TOTL,105.291504532867,106.833848874866,108.566932118964,108.695721960693,110.06700893427
+United States,USA,"Contributing family workers, female (% of female employment) (modeled ILO estimate)",SL.FAM.WORK.FE.ZS,0.0970000028610229,0.090999998152256,0.0850000008940697,0.0970000028610229,0.0829999968409538
+United States,USA,"Contributing family workers, male (% of male employment) (modeled ILO estimate)",SL.FAM.WORK.MA.ZS,0.0719999969005585,0.0649999976158142,0.0509999990463257,0.0549999997019768,0.0520000010728836
+United States,USA,"Contributing family workers, total (% of total employment) (modeled ILO estimate)",SL.FAM.WORK.ZS,0.0839999988675117,0.0769999995827675,0.0670000016689301,0.0740000009536743,0.0659999996423721
+United States,USA,CPIA economic management cluster average (1=low to 6=high),IQ.CPA.ECON.XQ,..,..,..,..,..
+United States,USA,CPIA financial sector rating (1=low to 6=high),IQ.CPA.FINS.XQ,..,..,..,..,..
+United States,USA,CPIA gender equality rating (1=low to 6=high),IQ.CPA.GNDR.XQ,..,..,..,..,..
+United States,USA,CPIA macroeconomic management rating (1=low to 6=high),IQ.CPA.MACR.XQ,..,..,..,..,..
+United States,USA,CPIA policies for social inclusion/equity cluster average (1=low to 6=high),IQ.CPA.SOCI.XQ,..,..,..,..,..
+United States,USA,CPIA property rights and rule-based governance rating (1=low to 6=high),IQ.CPA.PROP.XQ,..,..,..,..,..
+United States,USA,CPIA social protection rating (1=low to 6=high),IQ.CPA.PROT.XQ,..,..,..,..,..
+United States,USA,Depth of credit information index (0=low to 8=high),IC.CRD.INFO.XQ,..,8,8,8,8
+United States,USA,Domestic credit provided by financial sector (% of GDP),FS.AST.DOMS.GD.ZS,233.517842349451,247.462286242368,250.60130954964,235.954606351769,241.891277885599
+United States,USA,Domestic credit to private sector (% of GDP),FS.AST.PRVT.GD.ZS,179.064858472631,192.529454296889,194.231613856856,188.203731319098,192.165499849647
+United States,USA,Ease of doing business index (1=most business-friendly regulations),IC.BUS.EASE.XQ,..,..,..,..,..
+United States,USA,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,12959.414620833,12996.8454897102,12984.3331070206,..,..
+United States,USA,"Employers, female (% of female employment) (modeled ILO estimate)",SL.EMP.MPYR.FE.ZS,2.15599989891052,2.09299993515015,2.10400009155273,2.15000009536743,2.15000009536743
+United States,USA,"Employers, male (% of male employment) (modeled ILO estimate)",SL.EMP.MPYR.MA.ZS,5.14400005340576,5.08400011062622,5.05600023269653,5.02099990844727,4.96500015258789
+United States,USA,"Employers, total (% of total employment) (modeled ILO estimate)",SL.EMP.MPYR.ZS,3.76799988746643,3.70600008964539,3.69799995422363,3.70300006866455,3.67300009727478
+United States,USA,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,1.567999958992,1.51400005817413,1.56200003623962,1.66299998760223,1.6599999666214
+United States,USA,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,0.845000028610229,0.776000022888184,0.811999976634979,0.864000022411346,0.88400000333786
+United States,USA,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,2.18499994277954,2.14299988746643,2.20000004768372,2.34100008010864,2.31800007820129
+United States,USA,Employment in industry (% of total employment) (modeled ILO estimate),SL.IND.EMPL.ZS,18.5,18.753999710083,18.9950008392334,18.8509998321533,18.7910003662109
+United States,USA,"Employment in industry, female (% of female employment) (modeled ILO estimate)",SL.IND.EMPL.FE.ZS,8.23600006103516,8.25300025939941,8.4069995880127,8.38199996948242,8.25100040435791
+United States,USA,"Employment in industry, male (% of male employment) (modeled ILO estimate)",SL.IND.EMPL.MA.ZS,27.2639999389648,27.7159996032715,28.0149993896484,27.7329998016357,27.7280006408691
+United States,USA,Employment in services (% of total employment) (modeled ILO estimate),SL.SRV.EMPL.ZS,79.9329986572266,79.7320022583008,79.443000793457,79.4860000610352,79.5490036010742
+United States,USA,"Employment in services, female (% of female employment) (modeled ILO estimate)",SL.SRV.EMPL.FE.ZS,90.9199981689453,90.9710006713867,90.7809982299805,90.7539978027344,90.8649978637695
+United States,USA,"Employment in services, male (% of male employment) (modeled ILO estimate)",SL.SRV.EMPL.MA.ZS,70.5510025024414,70.140998840332,69.7839965820313,69.9260025024414,69.9530029296875
+United States,USA,Export value index (2000 = 100),TX.VAL.MRCH.XD.WD,197.6809589,202.0151602,207.2508754,192.1649329,186.0306196
+United States,USA,Export volume index (2000 = 100),TX.QTY.MRCH.XD.WD,148.0578946,151.886463,156.9500533,155.2834376,155.0390891
+United States,USA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,13.6066084998349,13.6393115137468,13.6200439199663,12.4990439118459,11.8906224202293
+United States,USA,Exports of goods and services (annual % growth),NE.EXP.GNFS.KD.ZG,3.41732603779464,3.48132563789541,4.27456574544003,0.40998561374596,-0.328764881067443
+United States,USA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.8805,1.8575,1.8625,1.8435,1.8
+United States,USA,Fixed broadband Internet subscribers (per 100 people),IT.NET.BBND.P2,29.5255477705756,30.4344969394303,30.7850862035448,31.9483223601855,33.0023993914823
+United States,USA,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.54961961293709,1.72621218311074,1.36366956591693,2.79327293615472,2.57411282734144
+United States,USA,"Foreign direct investment, net outflows (% of GDP)",BM.KLT.DINV.WD.GD.ZS,2.3350915847506,2.3532672314925,1.94433441787683,1.71702395391263,1.67297064749476
+United States,USA,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,10.2660131159082,10.9761680045297,11.1563736099247,8.17133468780365,7.71591955385221
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.22403085385714,1.67733152992453,2.56919359418927,2.86158702527237,1.48527919319146
+United States,USA,GDP per capita (constant 2005 US$),NY.GDP.PCAP.KD,49498.3909155226,49971.9513571108,50871.674083306,51933.4048064982,52319.1633505427
+United States,USA,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,50520.348289879,51003.6859904151,51921.9846391384,53005.6361464627,53399.3591673623
+United States,USA,GDP per person employed (constant 1990 PPP $),SL.GDP.PCAP.EM.KD,109145.90625,109761.046875,110433.640625,111580.2109375,111587.1484375
+United States,USA,GINI index (World Bank estimate),SI.POV.GINI,..,41,..,..,41.5
+United States,USA,"Government expenditure on education, total (% of GDP)",SE.XPD.TOTL.GD.ZS,5.19485998153687,4.94378995895386,4.98948001861572,..,..
+United States,USA,Gross capital formation (% of GDP),NE.GDI.TOTL.ZS,19.350606350689,19.762260074983,20.1448058652222,20.4279974839843,19.6887858583933
+United States,USA,Gross capital formation (annual % growth),NE.GDI.TOTL.KD.ZG,6.92784676660317,3.95571270178421,4.30603405209509,4.59722005621886,-1.38428056056162
+United States,USA,"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,15.3460901731356,15.8643459429122,..,..,..
+United States,USA,High-technology exports (% of manufactured exports),TX.VAL.TECH.MF.ZS,17.776885094684,17.818696866679,18.229382922769,18.9915245249453,19.9587212229637
+United States,USA,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,12.813279788,12.9609184364,12.8642012837,13.7811887363,14.0550902904
+United States,USA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,17.1080190315783,16.5869465309834,16.5436176586243,15.3909939751822,14.6892999668447
+United States,USA,Individuals using the Internet (% of population),IT.NET.USER.ZS,74.7,71.4,73,74.5542024462761,76.176736982841
+United States,USA,"Industry, value added (% of GDP)",NV.IND.TOTL.ZS,19.9115840511338,20.0656270487578,20.2282668494571,19.4418559058986,18.8804339773336
+United States,USA,"Industry, value added (annual % growth)",NV.IND.TOTL.KD.ZG,2.07447923381785,2.47773907393723,2.20950191571933,1.91670777710695,0.121771667470867
+United States,USA,"Industry, value added (constant 2005 US$)",NV.IND.TOTL.KD,3044693740900,3120133307400,3189072712600,3250197917300,3254155737500
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.069337265,1.464832656,1.622222977,0.118627136,1.261583206
+United States,USA,Informal payments to public officials (% of firms),IC.FRM.CORR.ZS,..,..,..,..,..
+United States,USA,International migrant stock (% of population),SM.POP.TOTL.ZS,..,..,..,14.4906535240608,..
+United States,USA,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,56.7000007629395,56.2919998168945,56.1100006103516,55.8320007324219,55.9900016784668
+United States,USA,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,69.3470001220703,68.9879989624023,68.5429992675781,68.4290008544922,68.5579986572266
+United States,USA,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.ZS,62.8979988098145,62.5169982910156,62.2089996337891,62.0139999389648,62.1599998474121
+United States,USA,Labor force with advanced education (% of total working-age population with advanced education),SL.TLF.ADVN.ZS,71.4899978637695,70.9560012817383,70.3853988647461,69.7203979492188,69.4046020507813
+United States,USA,"Labor force with advanced education, female (% of female working-age population with advanced education)",SL.TLF.ADVN.FE.ZS,80.252799987793,79.548698425293,78.9281997680664,78.5987014770508,78.3363037109375
+United States,USA,"Labor force with advanced education, male (% of male working-age population with advanced education)",SL.TLF.ADVN.MA.ZS,75.5871963500977,74.9710006713867,74.3520965576172,73.8436965942383,73.5598983764648
+United States,USA,Labor force with basic education (% of total working-age population with basic education),SL.TLF.BASC.ZS,29.1690006256104,28.2607002258301,28.5981006622314,28.7518997192383,29.3010005950928
+United States,USA,"Labor force with basic education, female (% of female working-age population with basic education)",SL.TLF.BASC.FE.ZS,52.3723983764648,52.8042984008789,52.6837005615234,52.8846015930176,52.8143005371094
+United States,USA,"Labor force with basic education, male (% of male working-age population with basic education)",SL.TLF.BASC.MA.ZS,40.8730010986328,40.7948989868164,40.8452987670898,41.0429000854492,41.2580986022949
+United States,USA,Labor force with intermediate education (% of total working-age population with intermediate education),SL.TLF.INTM.ZS,51.8194007873535,51.0561981201172,50.627799987793,50.2355995178223,50.2513999938965
+United States,USA,"Labor force with intermediate education, female (% of female working-age population with intermediate education)",SL.TLF.INTM.FE.ZS,66.1960983276367,65.6336975097656,64.991096496582,64.7049026489258,64.8928985595703
+United States,USA,"Labor force with intermediate education, male (% of male working-age population with intermediate education)",SL.TLF.INTM.MA.ZS,58.8539009094238,58.1940994262695,57.7075004577637,57.3680000305176,57.4766998291016
+United States,USA,"Labor force, total",SL.TLF.TOTL.IN,158429022,159007112,159800262,160838830,162776841
+United States,USA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,81.2,81.2,81.3,81.2,81.2
+United States,USA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,76.4,76.4,76.5,76.3,76.3
+United States,USA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0269979172134554,0.0266245082147899,0.0263129283690434,0.0261155611660945,..
+United States,USA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,..,..,..,..,..
+United States,USA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,..,..,..,..,..
+United States,USA,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,..,..,..,..,..
+United States,USA,"Literacy rate, youth female (% of females ages 15-24)",SE.ADT.1524.LT.FE.ZS,..,..,..,..,..
+United States,USA,"Literacy rate, youth male (% of males ages 15-24)",SE.ADT.1524.LT.MA.ZS,..,..,..,..,..
+United States,USA,"Literacy rate, youth total (% of people ages 15-24)",SE.ADT.1524.LT.ZS,..,..,..,..,..
+United States,USA,"Manufacturing, value added (% of GDP)",NV.IND.MANF.ZS,12.1240830924674,12.0311371039553,11.9629696075922,11.9190042346014,11.6006451779178
+United States,USA,"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,0.330060933231891,2.06939979835525,1.67461718751443,0.816002055424676,0.540861148853196
+United States,USA,"Manufacturing, value added (constant 2005 US$)",NV.IND.MANF.KD,1819337217000,1856986577700,1888083994100,1903490798300,1913786040500
+United States,USA,Market capitalization of listed companies (% of GDP),CM.MKT.LCAP.GD.ZS,115.555794136335,143.99442255608,151.0854942293,138.336379019061,146.861593252964
+United States,USA,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,97.2880745755963,98.4665250134029,111.891403183316,119.497390487961,122.875872294896
+United States,USA,"New business density (new registrations per 1,000 people ages 15-64)",IC.BUS.NDNS.ZS,..,..,..,..,..
+United States,USA,New businesses registered (number),IC.BUS.NREG,..,..,..,..,..
+United States,USA,Number of visits or required meetings with tax officials,IC.TAX.METG,..,..,..,..,..
+United States,USA,"Own-account workers, female (% of female employment) (modeled ILO estimate)",SL.EMP.OWAC.FE.ZS,5.42000007629395,5.4060001373291,5.21000003814697,5.09700012207031,5.01200008392334
+United States,USA,"Own-account workers, male (% of male employment) (modeled ILO estimate)",SL.EMP.OWAC.MA.ZS,7.32399988174438,7.07100009918213,6.98799991607666,7.07000017166138,7.06099987030029
+United States,USA,"Own-account workers, total (% of male employment) (modeled ILO estimate)",SL.EMP.OWAC.ZS,6.44700002670288,6.30399990081787,6.17000007629395,6.16400003433228,6.12099981307983
+United States,USA,"Personal remittances, paid (current US$)",BM.TRF.PWKR.CD.DT,52652000000,55669000000,58882000000,62501000000,66649000000
+United States,USA,"Personal transfers, receipts (BoP, current US$)",BX.TRF.PWKR.CD,..,..,..,..,..
+United States,USA,Population ages 0-14 (% of total),SP.POP.0014.TO.ZS,19.7809393545651,19.5716465619356,19.3790713894189,19.2128603143717,19.0282314735596
+United States,USA,"Population ages 0-14, total",SP.POP.0014.TO,62110819,61892300,61746087,61680936,61538430
+United States,USA,Population ages 15-64 (% of total),SP.POP.1564.TO.ZS,66.6622959511348,66.5248910716167,66.3536010252639,66.146796271107,65.9402912856634
+United States,USA,"Population ages 15-64, total",SP.POP.1564.TO,209315124,210374660,211417519,212357568,213254816
+United States,USA,Population ages 65 and above (% of total),SP.POP.65UP.TO.ZS,13.5567646943001,13.9034623664477,14.2673275853172,14.6403434145212,15.0314772407769
+United States,USA,"Population ages 65 and above, total",SP.POP.65UP.TO,42567329,43967545,45458919,47001335,48612690
+United States,USA,Population density (people per sq. km of land area),EN.POP.DNST,34.3258833638337,34.5708959466166,34.8319553491586,35.0962171847362,35.3548798459019
+United States,USA,Population growth (annual %),SP.POP.GROW,0.750914976335014,0.711248386684869,0.752305212009722,0.755812954934385,0.734307439742705
+United States,USA,"Population, total",SP.POP.TOTL,313993272,316234505,318622525,321039839,323405935
+United States,USA,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,..,1,..,..,1.2
+United States,USA,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,..,..,..,..,..
+United States,USA,"Primary completion rate, female (% of relevant age group)",SE.PRM.CMPT.FE.ZS,..,..,..,..,..
+United States,USA,"Primary completion rate, male (% of relevant age group)",SE.PRM.CMPT.MA.ZS,..,..,..,..,..
+United States,USA,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,..,..,..,..,..
+United States,USA,Private credit bureau coverage (% of adults),IC.CRD.PRVT.ZS,..,100,100,100,100
+United States,USA,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS,..,0,0,0,0
+United States,USA,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2.69803,2.74019,2.75493,2.79385,..
+United States,USA,Researchers in R&D (per million people),SP.POP.SCIE.RD.P6,4015.88708,4117.67409,4231.98928,..,..
+United States,USA,Rural population,SP.RUR.TOTL,59285070,59139015,58999333,58843392,58659368
+United States,USA,Rural population (% of total population),SP.RUR.TOTL.ZS,18.881,18.701,18.517,18.329,18.138
+United States,USA,"School enrollment, primary (% gross)",SE.PRM.ENRR,98.3792724609375,98.3137435913086,98.5680313110352,99.2794418334961,..
+United States,USA,"School enrollment, primary, female (% gross)",SE.PRM.ENRR.FE,97.7043991088867,97.9883422851563,98.4844131469727,99.4006195068359,..
+United States,USA,"School enrollment, primary, male (% gross)",SE.PRM.ENRR.MA,99.0244903564453,98.6248931884766,98.6479797363281,99.1635894775391,..
+United States,USA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,94.1275329589844,94.7401504516602,95.8849105834961,97.1848373413086,..
+United States,USA,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.0045599937439,1.00059998035431,1.01013004779816,1.01040005683899,..
+United States,USA,"School enrollment, secondary, female (% gross)",SE.SEC.ENRR.FE,94.3465881347656,94.7693405151367,96.3789596557617,97.6984100341797,..
+United States,USA,"School enrollment, secondary, male (% gross)",SE.SEC.ENRR.MA,93.9187393188477,94.712272644043,95.4122695922852,96.6930999755859,..
+United States,USA,"School enrollment, tertiary (% gross)",SE.TER.ENRR,..,..,..,..,..
+United States,USA,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,..,..,..,..,..
+United States,USA,"School enrollment, tertiary, female (% gross)",SE.TER.ENRR.FE,..,..,..,..,..
+United States,USA,"School enrollment, tertiary, male (% gross)",SE.TER.ENRR.MA,..,..,..,..,..
+United States,USA,"Self-employed, female (% of female employment) (modeled ILO estimate)",SL.EMP.SELF.FE.ZS,7.67399978637695,7.59000015258789,7.40000009536743,7.3439998626709,7.24499988555908
+United States,USA,"Self-employed, male (% of male employment) (modeled ILO estimate)",SL.EMP.SELF.MA.ZS,12.539999961853,12.2200002670288,12.0950002670288,12.1459999084473,12.0780000686646
+United States,USA,"Self-employed, total (% of total employment) (modeled ILO estimate)",SL.EMP.SELF.ZS,10.298999786377,10.0880002975464,9.9350004196167,9.94200038909912,9.85999965667725
+United States,USA,Tax payments (number),IC.TAX.PAYM,..,10.6,10.6,10.6,10.6
+United States,USA,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,9.82110155488106,10.5772051755392,11.0016239175437,11.2393750047597,10.8932466552748
+United States,USA,"Taxes on income, profits and capital gains (% of total taxes)",GC.TAX.YPKG.ZS,91.8671342422653,91.7469651587996,91.9578891369203,92.1241447373266,92.257875306214
+United States,USA,Technicians in R&D (per million people),SP.POP.TECH.RD.P6,..,..,..,..,..
+United States,USA,Telephone lines (per 100 people),IT.MLT.MAIN.P2,44.2321518177024,42.2242516112453,40.4429981773284,39.0236386141005,37.7211959149307
+United States,USA,Time required to enforce a contract (days),IC.LGL.DURS,..,420,420,420,420
+United States,USA,Time required to obtain an operating license (days),IC.FRM.DURS,..,..,..,..,..
+United States,USA,Time required to register property (days),IC.PRP.DURS,..,15.2,15.2,15.2,15.2
+United States,USA,Time required to start a business (days),IC.REG.DURS,..,6.2,5.6,5.6,5.6
+United States,USA,Time to prepare and pay taxes (hours),IC.TAX.DURS,..,175,175,175,175
+United States,USA,Time to resolve insolvency (years),IC.ISV.DURS,..,1,1,1,1
+United States,USA,"Total employment, total (ages 15+)",SL.EMP.TOTL,145643468,147271767,149938774,152347424,154850111
+United States,USA,Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,4.98619985580444,4.44999980926514,3.82130002975464,3.14890003204346,2.95880007743835
+United States,USA,"Unemployment with advanced education, female (% of female labor force with advanced education)",SL.UEM.ADVN.FE.ZS,4.49249982833862,4.19189977645874,3.5560998916626,2.91300010681152,2.85549998283386
+United States,USA,"Unemployment with advanced education, male (% of male labor force with advanced education)",SL.UEM.ADVN.MA.ZS,4.74109983444214,4.32200002670288,3.69059991836548,3.03229999542236,2.90759992599487
+United States,USA,Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,10.128399848938,9.20730018615723,7.92700004577637,6.99650001525879,6.40530014038086
+United States,USA,"Unemployment with intermediate education, female (% of female labor force with intermediate education)",SL.UEM.INTM.FE.ZS,10.6506996154785,10.0626001358032,8.22309970855713,7.15889978408813,6.52379989624023
+United States,USA,"Unemployment with intermediate education, male (% of male labor force with intermediate education)",SL.UEM.INTM.MA.ZS,10.4158000946045,9.67959976196289,8.09140014648438,7.08680009841919,6.47130012512207
+United States,USA,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,7.89200019836426,7.0770001411438,6.06199979782104,5.17700004577637,4.78900003433228
+United States,USA,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,8.22200012207031,7.63700008392334,6.26200008392334,5.36700010299683,4.93900012969971
+United States,USA,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,8.06999969482422,7.38000011444092,6.17000007629395,5.28000020980835,4.86999988555908
+United States,USA,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.FE.ZS,14.5640001296997,13.8219995498657,12.0719995498657,10.2959995269775,9.25
+United States,USA,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.MA.ZS,17.5139999389648,16.9249992370605,14.4270000457764,12.6300001144409,11.3299999237061
+United States,USA,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,16.1180000305176,15.4530000686646,13.3059997558594,11.5150003433228,10.3369998931885
+United States,USA,Urban population,SP.URB.TOTL,254708202,257095490,259623192,262196447,264746567
+United States,USA,Urban population (% of total),SP.URB.TOTL.IN.ZS,81.119,81.299,81.483,81.671,81.862
+United States,USA,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,5.51700007915497,5.49700013548136,5.29500003904104,5.19400012493133,5.09500008076429
+United States,USA,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,7.39599987864494,7.13600009679794,7.03899991512299,7.12500017136336,7.11299987137317
+United States,USA,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",SL.EMP.VULN.ZS,6.53100002557039,6.38099990040064,6.23700007796288,6.23800003528595,6.1869998127222
+United States,USA,"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)",SL.EMP.WORK.FE.ZS,92.3259963989258,92.4100036621094,92.5999984741211,92.6559982299805,92.754997253418
+United States,USA,"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)",SL.EMP.WORK.MA.ZS,87.4599990844727,87.7799987792969,87.9049987792969,87.8539962768555,87.9219970703125
+United States,USA,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",SL.EMP.WORK.ZS,89.7009963989258,89.9120025634766,90.0650024414063,90.0579986572266,90.1399993896484
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Data from database: Jobs,,,,,,,,
+Last Updated: 02/17/2021,,,,,,,,

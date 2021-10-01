@@ -1,0 +1,324 @@
+Ligne;Nom_gare;Adresse_gare;Code_UIC;Reperes_E_S;Observations;Signaletique_directionnelle;Adresse_de_la_sortie;Nom_de_la_sortie;Coordonnee_WGS84_Bing
+L;Achères-Ville;Rue du Moulin (depuis N186);87381657;Entrée et sortie;Entrée principale;;Rue du Moulin (depuis N186);Entrée 1 - Rue du Moulin;48.581261,2.43813
+L;Nanterre-Université;33 Boulevard des Provinces Françaises 92000 Nanterre;87386318;Entrée  et sortie 1;;;Boulevard des Provinces Françaises;Entrée 1 - Boulevard des Provinces Françaises;48.901322,2.215582
+L;Nanterre-Université;35 Boulevard des Provinces Françaises 92000 Nanterre;87386318;Entrée et sortie 3;Coté de l'université  bis;;;Entrée 3 - Boulevard des Provinces Françaises;48.901298,2.212507
+L;Houilles-Carrières-sur-Seine;Place André Malraux (Rond point);87386409;Entrée et sortie;Entrée 1;;Place André Malraux (Rond point);Entrée 1 - Place André Malraux (Rond point);48.551151,2.11642
+L;Cergy-le-Haut;Rue de l'Espérance;87382655;Entrée et sortie;Entrée principale 1;;Rue de l'Espérance;Entrée 1 - Rue de L'Espérance;49.25432,2.04276
+L;Saint-Cloud;42 Rue Dailly 92210 Saint Cloud;87382358;Entrée  et sortie 1;;;Avenue Pozzo di Borgo/ Rue Alexandre Coutureau/ Rue Armengaud;Entrée 1 - Avenue Pozzo di Borgo/ Rue Alexandre Coutureau/ Rue Armengaud;48.84554,2.216668
+L;Puteaux;2 Rue Ferdinand Pelloutier 92800 Puteaux;87382382;Entrée  et sortie 2;;;Rue Fernand Pelloutier;Entrée 2 - Rue Ferdinant Pelloutier;48.884369,2.234342
+C;Athis-Mons;Place de Rothenbourg ob der Tauber 91200   Athis-Mons;87545251;Entreé N°02;coté droit  BV;Sortie Centre Ville;Place de Rothenburg;Entrée 2 - Place de Rothenburg (Centre ville);48.712633,2.402767
+C;Athis-Mons;Place de Rothenbourg ob der Tauber 91200   Athis-Mons;87545251;Entrée N°01;façade bv;Sortie Place de Rothenburg;Place de Rothenburg;Entrée 1 - Place de Rothenburg;48.712867,2.402983
+C;Bièvres;Place de la Gare 91570   Bièvres;87393546;Entreé N°02;coté gauche bv;Sortie Place de la Gare;Avenue de la Gare;Entrée 2 - Avenue de la Gare;48.751231,2.215808
+C;Norville-Saint-Germain-les-Arpajon (La);Rue de la Gare 91290   La Norville;87545459;Entrée N°02;coté bv;Sortie Rue Pasteur;Rue de la gare;Entrée 2 - Rue Pasteur;48.591567,2.2674
+C;Orly-Ville;1, Place du 8 mai 45 94310   Orly;87546200;Entrée N°01;façade BV;Sortie;Place du 08 mai 1945;Entrée 1 -  Place du 08 mai 1945;48.741747,2.402733
+C;Petit-Vaux;Rue du Petit Vaux  91360   Epinay-sur-Orge;87393652;Entrée N°01;;Sortie Rue de petit vaux;Rue de petit vaux;Entrée 1 - Rue de petit vaux;48.675898,2.333951
+L;Vallées (Les);Place des la gare des Vallées 92250 La Garenne Colombes;87386300;Entrée et sortie 2;;;Parking de la gare des Vallées quai direction Paris;Entrée 2 - Place de la gare des Vallées (Accès parking);48.913705,2.257689
+L;Paris Saint-Lazare;13 Rue d'Amsterdam 75008 Paris;87281899;Entrée et sortie 4;Place de Budapest/ Rue d'Amsterdam;;Place de Budapest/ Rue d'Amsterdam;Entrée 4 - Place de Budapest/ Rue d'Amsterdam;48.877155,2.32688
+L;Saint-Nom-la-Bretèche Forêt de Marly;Route de Saint Nom la Bretèche 78620 L'Etang La Ville;87382481;Entrée et sortie 1;;;Route de Saint Nom;Entrée 1 - Route de Saint Nom;48.867787,2.051121
+L;Suresnes-Mont-Valérien;Rue Worth 92150 Suresnes;87382374;Entrée et sortie 2;;;Avenue Franklin Roosevelt;Entrée 2 - Avenue Franklin Roosevelt;48.872014,2.221058
+C;Vitry-sur-Seine;Cour de la Gare 94400   Vitry-sur-Seine;87545293;Entrée N°05;opposé à la N°02;;Rue Pierre Semard;Entrée 5 - Rue Pierre Semard;48.800867,2.40255
+C;Etréchy;Boulevard Pasteur 91580   Etrechy;87545145;Entrée N°01;façade BV;Sortie place de la gare;Boulevard de la Gare;Entrée 1 - Place de la gare;48.493776,2.194286
+C;Invalides;2, Rue Esnault Pelterie 75007   Paris;87393033;Entrée N°03;;"Sortie rue Esnault Pelterie Quai d'Orsay
+aérogare Air France";rue Esnaullt Pelterie;Entrée 3 - Rue Esnault Pelterie (Aérogare Air France);48.861967,2.3149
+C;Bièvres;Place de la Gare 91570   Bièvres;87393546;Entrée N°03;debut quai opposé bv;Sortie Jognieres;Rue du petit bièvres;Entrée 3 - Rue du petit bièvres / Jognieres;48.75174,2.214006
+C;Pont-de-Rungis-Aéroport-d'Orly;Avenue du Docteur Marie 94150   Thiais;87546192;Entrée N°02;façade BV;;;Entrée  2 - Avenue du Docteur Marie;48.748183,2.372733
+L;Bécon les Bruyères;Rue Madira - 92400 Courbevoie;87382002;Entrée 3;Travaux d'assainissement dans la rue de la Sablière;;Rue de la Sablière (Asnières Sur Seine);Entrée 3  - Rue de la Sablière (Asnières sur Seine);48.905923,2.268454
+L;Sèvres-Ville-d'Avray;Place Pierre Brosselette 92310 Sèvres;87382341;Entrée et sortie 2;;;Rue Brancas;Entrée 2 - Rue Brancas;48.826936,2.201019
+C;Longjumeau;Place de la Gare 91160   Longjumeau;87393611;Entrée N°01;facade Bv;Sortie Place de la Gare;Place de la Gare;Entrée 1 - Place de la Gare;48.702083,2.2944
+C;Ablon;Place de la Libération 94480   Ablon-sur-Seine;87545269;Entrée N°04;Quai opposé bv;Sortie Rue du colonnel Pierre Brossolette;Rue du colonnel Pierre Brossolette;Entrée 4 - Rue du colonnel Pierre Brossolette;48.725867,2.420283
+C;Etréchy;Boulevard Pasteur 91580   Etrechy;87545145;Entrée N°02;coté droit du BV;Sortie place de la gare;Boulevard de la Gare;Entrée 2 - Place de la gare;48.493583,2.194267
+C;Chaville-Vélizy;1, Place de Verdun 78140   Viroflay;87393173;Entrée N°01;facade BV;Sortie Rue de Verdun;;Entrée 1 - Rue de Verdun;48.79975,2.184433
+C;JUVISY;;87545244;;;;;;
+C;Saint-Quentin-en-Yvelines;Place Charles de Gaulle 78180 Montigny le Bretonneux;87393843;Entrée et sortie 4;Accès près des Taxis;;Avenue de la Gare/ Avenue des Près;Entrée 4 - Avenue de la Gare/ Avenue des Près;48.787138,2.045545
+C;Saint-Cyr;Place Pierre Sémard 78120 Saint-Cyr l'Ecole;87393223;Entrée et sortie 2;Accès de nuit;;Place Pierre Sémard;Entrée 2 - Place Pierre Sémard;48.798938,2.072969
+L;Achères-Ville;Avenue de Conflans;87381657;Entrée et sortie;Entrée secondaire par souterrain;;Avenue de Conflans;Entrée 2 - Av de Conflans;48.581314,2.044045
+C;Javel;Rond point du Pont Mirabeau 75015   Paris;87393066;Entrée N°01;facade BV;Sortie;Pont Mirabeau/Quai André citroen;Entrée 1 - Pont Mirabeau/Quai André citroen;48.846217,2.276833
+C;Etampes;Place du Général Leclerc 91150   Etampes;87545137;Entrée N°02;Quai opposé au bv sur parking;Sortie Parking;parking;Entrée 2 - Parking;48.43775,2.160067
+C;Egly;Impasse de la Masure 91520   Egly;87545475;Entrée N°04;quai opposé;Sortie Avenue de la Gare;Avenue de la Gare;Entrée 4 - Avenue de la Gare;48.58245,2.221967
+C;Egly;Impasse de la Masure 91520   Egly;87545475;Entrée N°03;quai opposé;Sortie Allée des Joncs;Allée des Joncs;Entrée 3 - Allée des Joncs;48.582633,2.222517
+L;Paris Saint-Lazare;13 Rue d'Amsterdam 75008 Paris;87281899;Entrée et sortie 2;Rue de Rôme;;Rue de Rome Accès Quai 1;Entrée 2 - Rue de Rome Accès quai 1;48.877438,2.323029
+C;Breuillet-Village;Rue de la Gare 91650   Breuillet;87545491;Entrée N°04;quai bv acces parking;"Sortie place de la Gare
+parking";Rue de la Gare;Entrée 4 - place de la Gare/ parking;48.564383,2.170233
+C;Chilly-Mazarin;Rue du Chemin de Fer 91380   Chilly-Mazarin;87393637;Entrée N°02;chemin à coté du bv;Sortie Zone industrielle;;Entrée 2 - Zone industrielle;48.70065,2.308183
+L;Clichy-Levallois;5 place du 8 mai 1945 92110 Clichy;87381129;Entrée et sortie 1;;;Place du 8 mai 1945;Entrée 1 - Place du 8 mai 1945;48.8967,2.298163
+L;Marly-le-Roi;Rue Carnot 78160 Marly le Roi;87382465;Entrée et sortie 2;;;Rue de Fontenelle;Entrée 2 - Rue de Fontenelle;48.871849,2.097148
+C;Petit-Jouy-les-Loges;Chemin de Petit Jouy 78350   Les Loges-en-Jouy;87393504;Entrée N°01;;;rue du Petit Jouy;Entrée  1 - Rue du Petit Jouy;48.770633,2.146533
+C;Petit-Vaux;Rue du Petit Vaux  91360   Epinay-sur-Orge;87393652;Entrée N°02;;;Rue de petit vaux;Entrée 2 - Rue de petit vaux;48.675978,2.334049
+C;Saint-Michel-Notre-Dame;Quai Saint Michel 75005   Paris;87547315;Entrée N°04;;;Boulevard Saint Germain;Entrée 4 - Boulevard St Germain;48.851417,2.343467
+C;Saint-Michel-Notre-Dame;Quai Saint Michel 75005   Paris;87547315;Entrée N°05;;;Boulevard Saint Germain;Entrée 5 - Boulevard St Germain;48.851233,2.343333
+C;Trappes;Avenue Gabriel Péri 78 190 Trappes;87393835;Entrée et sortie 1;Entrée principale;;Avenue Gabriel Péri;Entrée 1 - Avenue Gabriel Péri;48.775016,2.006323
+L;Bougival;Place Maréchal Leclerc 78170 La Celle-Saint-Cloud;87382440;Entrée et sortie 2;Parking de la gare;;Rue Cardon/ Place du Cornier;Entrée 2 - Rue Cardon/ Place du Cornier;48.854125,2.131535
+C;Lardy;Rue de la Roche qui Tourne 91510   Lardy;87545160;Entrée N°02;coté BV sous terrain;"Sortie 
+centre ville
+rue de la roche qui tourne";Rue de la roche qui tourne;Entrée 2 - Rue de la Roche qui tourne (Centre Ville);48.520467,2.25575
+C;Lardy;Rue de la Roche qui Tourne 91510   Lardy;87545160;Entrée N°03;Quai opposé au bv;Sortie - Rue des vignes;rue des vignes;Entrée 3 - Rue des Vignes;48.52105,2.2559
+C;Neuilly-Porte Maillot;82, Avenue de la Grande Armée 75017   Paris;87381020;Entrée N°03;;"Sortie rue Waldek Rousseau
+rue Brunel";Boulevard Péreire;Entrée 3 - Rue Waldek Rousseau / Rue Brunel;48.87955,2.287133
+C;Neuilly-Porte Maillot;82, Avenue de la Grande Armée 75017   Paris;87381020;Entrée N°02;;Sortie place de la Porte Maillot;Place de la Porte Maillot;Entrée 2 - Place de la Porte Maillot;48.877867,2.284533
+C;Epinay-sur-Orge;1, Place Stalingrad 91360   Epinay-sur-Orge;87545228;Entrée N°04;;;Rue Pasteur;Entrée 4 - Rue Pasteur;48.669067,2.33135
+L;Vallées (Les);Place des la gare des Vallées 92250 La Garenne Colombes;87386300;Entrée et sortie 3;;;Rue du Transvaal;Entrée 3 - Rue du Transvaal;48.913567,2.256965
+L;Montreuil;Rue de la Bonne Aventure 78000 Versailles;87382879;Entrée et sortie 1;;;Rue de la Bonne aventure;Entrée 1 - Rue de la Bonne aventure;48.806786,2.151179
+C;Pont du Garigliano - Boulevard Victor;193, Quai André Citroën 75015 Paris;87393322;Entrée N°03;;;;Entrée 2 - Quai André Citroên;48.83945,2.270483
+C;Rungis-la-Fraternelle;Rue des Alpes 94150   Rungis;87546291;Entrée N°02;Quai opposé au bv;"Sortie Rue des Alpes
+Sortie Rue des Vosges
+Bus";Rue des Vosges;Entrée 2 - Rue des Vosges;48.7406,2.352933
+C;Saint-Gratien;Rue de Verdun 95210 Saint-Gratien;87276170;Entrée et Sortie;Entrée Principale;;;Entrée 1 - Rue de Verdun;48.963439,2.285371
+C;Saint-Quentin-en-Yvelines;Place Charles de Gaulle 78180 Montigny le Bretonneux;87393843;Entrée et sortie 3;;;Avenue des Près;Entrée 3 - Avenue des Près;48.787305,2.045076
+C;Savigny-sur-Orge;Place de la Gare 91600   Savigny-sur-Orge;87545236;Entrée N°02;coté droit BV;;Place de la Gare;Entrée 2 - Place de la Gare;48.675983,2.351583
+L;Celle-Saint-Cloud (La);Place Jean Mermoz 78170 La Celle Saint Cloud;87382432;Entrée et sortie 1;Coté Bus;;Avenue Pierre Corneille;Entrée 1 - Avenue Pierre Corneille;48.842803,2.138389
+L;Courbevoie;Rue de Sébastopol 92400 Courbevoie;87382200;Entrée et sortie 5;Près du pont;;Rue Sébastopol/ Rue Jean Pierre Timbaud;Entrée 5 - Rue Sébastopol/ Rue Jean Pierre Timbaud;48.899379,2.250815
+C;Ardoines (Les);Rue Léon Geoffroy 94400   Vitry-sur-Seine;87492108;Entrée N°01;façade BV;Sortie Gare;Rue Léon Geffroy;Entrée 1 - Gare;48.78285,2.40895
+L;Sèvres-Ville-d'Avray;Place Pierre Brosselette 92310 Sèvres;87382341;Entrée et sortie 1;;;Place Pierre Brosselette;Entrée 1 - Place Pierre Brosselette;48.827517,2.200474
+C;Ermont Eaubonne;Rue des Bussys - 95120 Ermont;87276065;Entrée 5;Souterrain accès gare routière et accès CAB;Sortie rue de Callais;Rue des Callais;Entrée 5 - Rue des Callais;48.980868,2.271828
+C;Epinay-sur-Seine;Place de la Nouvelle Gare, 93800 Epinay-sur-Seine;87271148;Entrée et Sortie;Entrée Principale;;;Entrée 2 - Place de la Nouvelle Gare;48.9542,2.302609
+C;Champ de Mars - Tour Eiffel bir hakeim;Quai Branly ( pont Bir Hakeim ) 75015   Paris;87393058;Entrée N°01;Quai pres de la seine;"Sortie 
+Bd Grenelle 
+Quai Grenelle
+ Tour Eiffel";Quai Branly;Entrée  1 - Bd Grenelle / Quai Grenelle /Tour Eiffel;48.855148,2.289173
+C;Avenue Henri-Martin;4, Place Tattegrain 75016   Paris;87381046;Entreé N°02;;"Sortie 
+Avenue Victor Hugo";Bld Flandrin;Entrée 2 - Avenue Victor Hugo;48.864327,2.272251
+C;Gravigny-Balizy;Rue des Templiers 91160   Longjumeau;87393645;Entrée N°01;;Sortie coté Balizy;Rue des Templiers;Entrée 1 - Rue des Templiers (Coté Balizy);48.68535,2.317683
+C;Issy Val-de-Seine;87, Avenue de Verdun 92130   Issy-les-Moulineaux;87393306;Entreé N°04;;;Rue Rouget de l'isle;Entrée 4 - Rue Rouget de l'isle;48.829467,2.262717
+C;Ivry-sur-Seine;Place Marcel Cachin 94200   Ivry-sur-Seine;87545301;Entrée N°03;quai opposé au bv;;Rue de la Gare;Entrée 3 - Rue de la Gare;48.814716,2.39157
+C;Petit-Jouy-les-Loges;Chemin de Petit Jouy 78350   Les Loges-en-Jouy;87393504;Entrée N°02;;;rue Charles De gaulle;Entrée 2 - Rue Charles De gaulle;48.771,2.14705
+L;Conflans-fin-d'Oise;Rue des côtes de Vannes (Passerelle);87381459;Entrée et sortie;Entrée 3 par passerelle de correspondance ALJ;;Rue des côtes de Vannes (Passerelle);Entrée 3 - Rue des côtes de Vannes (Passerelle);49.593196,2.43018
+L;Asnières-sur-Seine;Rue de la Station 92600 Asnières sur Seine;87381137;Entrée et sortie 2;;;Rue d'Anjou/ Rue de Bretagne;Entrée 2 - Rue d'Anjou/ Rue de Bretagne;48.905575,2.282913
+L;La Defense;Rue Carpeaux - 92800 Puteaux;87382218;Entrée 3;Gare routière RATP;Sortie F - Calder - Miro;Place de la défense;Entrée F - Calder - Miro - Place de la Défense;48.8914,2.24039
+C;Saint-Michel-sur-Orge;Rue Anatole France 91240   Saint-Michel-sur-Orge;87545202;Entrée N°01;façade BV;Sortie rue Anatole France;Rue anatole France;Entrée 1 - Rue Anatole France;48.63555,2.306617
+C;Sermaise;Route de Dourdan 91530   Sermaise;87545517;Entreé N°02;Quai coté Bv;"Sortie 
+avenue de Dourdan";Avenue de Dourdan;Entrée  2 - Avenue de Dourdan;48.535533,2.069333
+C;Saint-Ouen-l'Aumône-Liesse;Place Montesquieu 95310 Saint-Ouen-l'Aumône;87276100;Entrée et Sortie;Entrée Principale;;;Entrée 1 - Place Montesquieu;49.033839,2.127847
+C;Ermont Eaubonne;Rue des Bussys - 95120 Ermont;87276065;Entrée 2;Gare Routière;Sortie Gare routière;Place Jean Esprangle;Entrée 2 - Gare routière - Place Jean Esprangle;48.98028,2.271466
+C;Chilly-Mazarin;Rue du Chemin de Fer 91380   Chilly-Mazarin;87393637;Entrée N°03;Quai opposé au bv;;;Entrée 3 - Rue du Chemin de Fer;48.7005,2.308267
+C;Arpajon;Rue Aristide Briand 91290   Arpajon;87545467;Entreé N°02;coté droit BV;Sortie place de la Gare;Place de la Gare;Entrée 2 - Place de la gare;48.586183,2.240883
+C;Avenue Henri-Martin;4, Place Tattegrain 75016   Paris;87381046;Entrée N°01;;"Sortie 
+Rue Adolphe Yvon";Bld Flandrin;Entrée 1 - Rue Adolphe Yvon;48.864403,2.272009
+C;Boulainvilliers;52, Rue des Vignes 75016   Paris;87543181;Entrée N°01;façade BV;;Rue de Boulainvilliers;Entrée 1 - Rue des Boulainvilliers;48.856433,2.274867
+C;Norville-Saint-Germain-les-Arpajon (La);Rue de la Gare 91290   La Norville;87545459;Entrée N°03;;Sortie rue de la Gare;Rue de la gare;Entrée 3 - Rue de la Gare;48.591833,2.2674
+C;Pierrelaye;Place du 8 Mai 1945 95480 Pierrelaye;87276097;Entrée et Sortie;Entrée Principale;;Place du 8 Mai 1945;Entrée 1 - Place du 8 Mai 1945;49.01954,2.153691
+C;Ivry-sur-Seine;Place Marcel Cachin 94200   Ivry-sur-Seine;87545301;Entrée N°01;facade bv;;Place Marcel Cachin;Entrée 1 - Place Marcel Cachin;48.814298,2.390972
+L;Puteaux;2 Rue Ferdinand Pelloutier 92800 Puteaux;87382382;Entrée et sortie 3;;;Parc du Moulin/ Rue Cartault/Rue Fernand Pelloutier;Entrée 3 - Parc du Moulin/ Rue Cartault/Rue Fernand Pelloutier;48.88306,2.233065
+L;Mareil Marly;Rue des Frères des Telliers 78750 Mareil-Marly;87382812;Entrée et sortie 1;;;Rue des Frères des Talliers;Entrée 1 - Rue des Frères des Talliers;48.881042,2.078822
+C;Norville-Saint-Germain-les-Arpajon (La);Rue de la Gare 91290   La Norville;87545459;Entrée N°01;facade bv;Sortie Rue de la Gare coté place;Rue de la gare;Entrée 1 - Rue de la Gare (Coté Place);48.591683,2.267567
+C;Marolles-en-Hurepoix;Place de la Gare 91630   Marolles-en-Hurepoix;87545186;Entrée N°03;Quai opposé au bv;Sortie Rue de la Gare;Rue de la Gare;Entrée 3 - Place de la Gare;48.565018,2.291292
+C;Marolles-en-Hurepoix;Place de la Gare 91630   Marolles-en-Hurepoix;87545186;Entrée N°01;façade BV;;;Entrée 1 - Place de la Gare;48.565067,2.29065
+C;Breuillet-Bruyères-le-Châtel;Route d'Arpajon 91650   Breuillet;87545483;Entrée N°03;Quai opposé bv;Sortie Rue Nouvelle;Rue Nouvelle;Entrée 3 - Rue Nouvelle;48.577533,2.191783
+C;Avenue du Président Kennedy;6, Rue du Ranelagh 75016   Paris;87543207;Entrée N°02;;Sortie rue du docteur germain see;Sortie rue du docteur germain see;Entrée 2 - Rue du Docteur Germain See;48.853083,2.28055
+C;Chamarande;Place de la Gare 91730   Chamarande;87545152;Entrée N°03;Début de quai opposé au bv;Sortie rue des écoles ou Chemin latéral;Rue des écoles;Entrée 3 - Rue des Ecoles / Chemin latéral;48.51481,2.216142
+C;Dourdan-la-Forêt;Chemin du Champ de course 91410   Dourdan;87540179;Entrée N°01;Entrée sur parking;;Chemin du champ de course;Entrée 1 - Chemin du Champ de course / Parking;48.534876,1.995185
+C;Lardy;Rue de la Roche qui Tourne 91510   Lardy;87545160;Entrée N°01;façade BV;;Rue de la roche qui tourne;Entrée 1 - Rue de la Roche qui tourne;48.520573,2.255815
+C;Epinay-sur-Orge;1, Place Stalingrad 91360   Epinay-sur-Orge;87545228;Entrée N°02;coté droit BV;;Place Stalingrad;Entrée 2 - Place Stalingrad;48.6694,2.331733
+C;Versailles-Chantiers;4 Rue de l'Abbé Rousseau 78000 Versailles;87393009;Entrée et sortie 1;Entrée et sortie Principale;;Rue de l'Abbé Rousseau;Entrée 1 - Rue de l'Abbé Rousseau;48.795858,2.135806
+C;Igny;1, Avenue Jean Jaurès 91430   Igny;87393561;Entrée N°02;quai opposé au bv;Sortie Centre Ville;Av de la Division Leclerc;Entrée 2 -  Av de la Division Leclerc (Centre Ville);48.73995,2.230833
+C;Ermont Eaubonne;Rue des Bussys - 95120 Ermont;87276065;Entrée 1;Gare Routière;Sortie Gare routière;Place Jean Esprangle;Entrée 1 - Gare routière - Place Jean Esprangle;48.980287,2.271077
+C;Issy;87, Avenue de Verdun 92130   Issy-les-Moulineaux;87393074;Entrée N°01;facade bv;Sortie;Avenue de Verdun;Entrée 1 - Avenue de Verdun;48.82015,2.259267
+C;Choisy-le-Roi;Avenue du 8 mai 45 94600   Choisy-le-Roi;87545285;Entrée N°01;facade bv;;Avenue du 08 mai 1945;Entrée 1 - Avenue du 8 mai 45;48.764417,2.410583
+C;Ablon;Place de la Libération 94480   Ablon-sur-Seine;87545269;Entrée N°01;BV;Sortie Avenue du Général De Gaulle;Place de la Libération;Entrée 1 -  Avenue du Général De Gaulle;48.725433,2.419183
+L;Versailles Rive Droite;40, Rue du Maréchal Foch 78000   Versailles;87382861;entrée et sortie 2;;;Passage François Pilâtre de Rozier;Entrée 2 - Passage François Pilâtre de Rozier;48.809837,2.135133
+L;Saint-Germain Bel Air Fourqueux;Place du Préfet Claude Erignac 78100 Saint Germain en Laye;87366922;Entrer et sortie 2;;;Rue Franz Schubert;Entrée 2 - Rue Franz Schubert;48.894975,2.069941
+C;Avenue Foch;91 Boulevard Flandrin 75016   Paris;87381038;Entrée N°02;;Sortie rue de Longchamp;rue de Longchamp;Entrée 1 - Rue de Longchamp;48.868739,2.274038
+C;Bouray;Paté de Lardy 91850 Lardy;87545178;Entrée N°03;Début de quai opposé au bv;Sortie rue d'arpajon;Rue d'arpajon;Entrée 3 - Rue d'Arpajon;48.533983,2.29085
+C;Bouray;Paté de Lardy 91850  Lardy;87545178;Entreé N°02;coté Gauche du Bv;;Gare routière;Entrée 2 - Gare routière;48.533,2.2905
+L;La Defense;Rue Carpeaux - 92800 Puteaux;87382218;Entrée 4;Entrée sur le parvis;Sortie G - Coupole;Rond point de la défense;Entrée G - Coupole - Rond point de la Défense;48.89165,2.24217
+L;L'ETANG LA VILLE;;87382473;;;;;;
+C;Grésillons (Les);Avenue des Gresillons 923230 Genneviliers;87272146;Entrée et Sortie;Entrée Principale;;;Entrée 1 - Avenue des Gresillons;48.920019,2.314484
+C;Vitry-sur-Seine;Cour de la Gare 94400   Vitry-sur-Seine;87545293;Entrée N°02;escalier gauche du bv;;Place de la Gare;Entrée 2 - Place de la Gare;48.8008,2.4022
+C;Issy;87, Avenue de Verdun 92130   Issy-les-Moulineaux;87393074;Entrée N°02;quai opposé bv;"Sortie Allée des carrières
+Sortie Bld Rodin";Boulevard Rodin;Entrée 2 - Allée des carrières / Bld Rodin;48.819783,2.259417
+C;Invalides;2, Rue Esnault Pelterie 75007   Paris;87393033;Entrée N°01;;Sortie quai d'Orsay;Quai d'orsay;Entrée 1 - Quai d'Orsay;48.862533,2.3149
+C;Choisy-le-Roi;Avenue du 8 mai 45 94600   Choisy-le-Roi;87545285;Entrée N°03;quai opposé bv;;;Entrée 3 - Avenue du 8 mai 45;48.764917,2.41175
+C;Versailles Rive Gauche - Château;5, Avenue du Général De Gaulle 78000   Versailles;87393157;Entrée N°02;façade bv;;Avenue du Général de Gaulle;Entrée 2- Avenue du Général de Gaulle;48.800469,2.128836
+C;Saint-Quentin-en-Yvelines;Place Charles de Gaulle 78180 Montigny le Bretonneux;87393843;Entrée et sortie 2;;;D10;Entrée 2 - D10;48.787717,2.044097
+L;Nanterre-Université;34 Boulevard des Provinces Françaises 92000 Nanterre;87386318;Entrée et sortie 2;Coté de l'université;;;Entrée 2 - Boulevard des Provinces Françaises (Coté Université);48.90173,2.2149
+L;Marly-le-Roi;Rue Carnot 78160 Marly le Roi;87382465;Entrée et sortie 1;;;Place de la gare / Rue Carnot;Entrée 1 - Place de la gare / Rue Carnot;48.871262,2.096662
+C;Ablon;Place de la Libération 94480   Ablon-sur-Seine;87545269;Entreé N°02;quai coté bv;Sortie rue Gabriel Péri;Rue Gabriel Péri;Entrée 2 - Rue Gabriel Péri;48.726317,2.420267
+L;Paris Saint-Lazare;13 Rue d'Amsterdam 75008 Paris;87281899;Entrée et Sortie 1;Cours de Rome;;Rue de Rome/ Place Gabriel Péri/ Rue Saint Lazare;Entrée 1 - Rue de Rome/ Place Gabriel Péri/ Rue Saint Lazare;48.875821,2.324306
+C;Egly;Impasse de la Masure 91520   Egly;87545475;Entrée N°02;coté BV;Sortie Avenue de la Gare;Avenue de la Gare;Entrée 2 - Avenue de la Gare;48.582317,2.221967
+C;Ermont Eaubonne;Rue des Bussys - 95120 Ermont;87276065;Entrée 4;;Sortie Rue de Bussy et Rue des Bouquinvilles;Rue des bussys;Entrée 4 - Rue des Bussys;48.980404,2.271941
+C;Epinay-sur-Orge;1, Place Stalingrad 91360   Epinay-sur-Orge;87545228;Entrée N°03;;;Rue Pasteur;Entrée 3 - Rue Pasteur;48.669133,2.331733
+C;Chemin-d'Antony;Rue Lavoisier 92160   Antony;87546317;Entrée N°02;;;Rue lavoisier;Entrée 2 - Avenue Lavoisier;48.74805,2.313183
+C;Pont du Garigliano - Boulevard Victor;193, Quai André Citroën 75015  Paris;87393322;Entreé N°02;;"Sortie Hopital européen Georges Pompidou
+Rue du professeur Florian Delabarre
+France télévision
+Sortie Boulevard Valin";Boulevard du général Martial Valin;Entrée 1 - Boulevard du général Martial Valin / Hopital européen Georges Pompidou / France télévision;48.83835,2.27
+C;Massy-Palaiseau;6, Place Pierre Sémard 91300   Massy;87393579;Entrée N°03;facade Bv N°02;Sortie Rue Ramolfo garnier;Avenue Carnot;Entrée 3 - Rue Ramolfo garnier;48.723983,2.259417
+C;Saint-Chéron;Place de la Gare 91530   Saint-Chéron;87545509;Entrée N°02;coté droit bv;Sortie rue des Herbages;Sortie rue des Herbages;Entrée 2 - Rue des Herbages;48.55115,2.125433
+C;Porte de Clichy;190 ter, Avenue de Clichy 75017   Paris;87111278;Entrée N°01;;Sortie Avenue de Clichy;Avenue de Clichy;Entrée 1 -  Avenue de Clichy;48.89395,2.3146
+C;Vauboyen;Rue de Vauboyen 78350   Jouy-en-Josas;87393538;Entrée N°02;;;Rue de Vauboyen;Entrée 2  - Rue de Vauboyen;48.759183,2.1919
+L;La Defense;Rue Carpeaux - 92800 Puteaux;87382218;Entrée 1;Entrée centrale sur le parvis;Sortie A - Grande Arche;Avenue Perronet Nord;Entrée A - Grande Arche - Av Perronet Nord;48.8922,2.23795
+L;Neuville-Université;Accès par l'avenue du boulevard circulaire;87334482;Entrée et sortie;Entrée principale;;Accès par l'avenue du boulevard circulaire;Entrée 1 -  Boulevard circulaire;49.05154,2.44341
+L;Noisy le Roi;Place de la gare 78590 Noisy le Roi;87393876;Entrée et sortie 2;Coté bus et Parking;;;Entrée 2 - Place de la Gare (Parking, bus);48.841215,2.061408
+L;Mareil Marly;Rue des Frères des Telliers 78750 Mareil-Marly;87382812;Entrée et sortie 2;;;Chemin du Cheval;Entrée 2 - Chemin du Cheval;48.881417,2.079511
+C;Savigny-sur-Orge;Place de la Gare 91600   Savigny-sur-Orge;87545236;Entrée N°03;quai opposé BV;Sortie;Place Davout;Entrée 1 - Place Davout;48.67555,2.352033
+C;Vitry-sur-Seine;Cour de la Gare 94400   Vitry-sur-Seine;87545293;Entrée N°01;façade BV;;Cours de la gare;Entrée 1 - Cours de la gare;48.8005,2.402183
+C;Breuillet-Village;Rue de la Gare 91650   Breuillet;87545491;Entreé N°02;Coté droit bv;"Sortie Rue de la Gare 
+coté place de la Gare";Rue de la Gare;Entrée 2 -  Rue de la Gare / coté place de la Gare;48.564817,2.171217
+C;Breuillet-Bruyères-le-Châtel;Route d'Arpajon 91650   Breuillet;87545483;Entreé N°02;coté bv;Sortie Place de la Gare;Route d'Arpajon;Entrée 2 - Route d'arpajon / Place de la Gare;48.577233,2.191967
+C;Breuillet-Village;Rue de la Gare 91650   Breuillet;87545491;Entrée N°01;facade bv;Sortie Rue de la Gare;Rue de la Gare;Entrée 1 - Rue de la Gare;48.56495,2.17135
+C;Gennevilliers;Avenue du Général De Gaulle 92230 Gennevilliers;87271245;Entrée et Sortie;Entrée Principale;;;Entrée 1 - Avenue du Général De Gaulle;48.933728,2.306896
+C;Chemin-d'Antony;Rue Lavoisier 92160   Antony;87546317;Entrée N°03;quai opposé au bv;Sortie Rue Pablo Picasso;;Entrée 3 - Rue Pablo Picasso;48.747772,2.312289
+C;Arpajon;Rue Aristide Briand 91290   Arpajon;87545467;Entrée N°05;Quai opposé au bv;"Sortie par passage sous-terrain
+Avenue d'egly";Route d'Egly;Entrée 1 - Route d'egly (Passage sous terrain);48.585833,2.241767
+L;Viroflay Rive Droite;1 Place de Stalingrad;87382887;Entrée et sortie 2;;;Impasse Dupin/ Rue Gabriel Péri/ Rue Pierre Curie;Entrée 2 - Impasse Dupin/ Rue Gabriel Péri/ Rue Pierre Curie;48.805385,2.16927
+C;Saint-Chéron;Place de la Gare 91530   Saint-Chéron;87545509;Entrée N°03;coté gauche bv;Sortie rue des Herbages;Sortie rue des Herbages;Entrée 3 - Rue des Herbages;48.551283,2.125917
+C;Massy-Palaiseau;6, Place Pierre Sémard 91300   Massy;87393579;Entrée N°02;coté gauche bv;Sortie Place Pierre Semard;Place Pierre Semard;Entrée 2 - Place Pierre Semard;48.724917,2.256717
+C;Neuilly-Porte Maillot;82, Avenue de la Grande Armée 75017   Paris;87381020;Entrée N°01;;Sortie place de la Porte Maillot;Place de la Porte Maillot;Entrée 1 - Place de la Porte Maillot;48.878033,2.28435
+L;Celle-Saint-Cloud (La);Place Jean Mermoz 78170 La Celle Saint Cloud;87382432;Enrtée et sortie 2;Parking de la gare;;Avenue Boileau/ Place Jean Mermoz/ Avenue du Chesnay;Entrée 2 - Avenue Boileau/ Place Jean Mermoz/ Avenue du Chesnay;48.842537,2.137998
+L;Cergy-le-Haut;Rue de lendemain 2ème accès;87382655;Entrée et sortie;Entrée 3;;Rue de lendemain 2ème accès;Entrée 3 - Rue du Lendemain;49.2558,2.04338
+L;Cergy-Saint-Christophe;Rue des voyageurs;87382499;Entrée et sortie;Entrée 2;;Rue des voyageurs;Entrée 2 - Rue des Voyageurs;49.25922,2.2354
+L;Sartrouville;Places des fusillés par la rue Lamartine;87386417;Entrée et sortie;Entrée / Sortie Unique;Entrée unique à vérifier;Places des fusillés par la rue Lamartine;Entrée 1 - Places des Fusillés;48.561668,2.92696
+L;Saint-Germain Grande Ceinture;Place Christiane Frahier 78100 St Germain en Laye;87382804;Entrée  et sortie 1;;;Place Christiane Frahier 78100 St Germain en Laye;Entrée 1 - Place Christiane Frahier;48.903337,2.073297
+L;Saint-Cloud;42 Rue Dailly 92210 Saint Cloud;87382358;Entrée et sortie 2;;;Rue Dailly;Entrée 2 - Rue Dailly;48.844947,2.217357
+C;Saint-Chéron;Place de la Gare 91530   Saint-Chéron;87545509;Entrée N°04;coté opposé au bv;Sortie rue Racary;Sortie rue Racary;Entrée 4 -  Rue Racary;48.55105,2.126033
+C;Massy-Palaiseau;6, Place Pierre Sémard 91300   Massy;87393579;Entrée N°04;Escalier Coté BV N°02;;Avenue Carnot;Entrée 1 - Avenue Carnot;48.724167,2.259333
+L;Vallées (Les);Place des la gare des Vallées 92250 La Garenne Colombes;87386300;Entrée  et sortie1;;;Place de la gare des Vallées;Entrée 1 - Place de la gare des Vallées;48.913399,2.257891
+C;Chamarande;Place de la Gare 91730   Chamarande;87545152;Entrée N°01;façade BV;;Place de la Gare;Entrée 1 -  Place de la gare;48.514259,2.215829
+C;Saint-Michel-Notre-Dame;Quai Saint Michel 75005   Paris;87547315;Entrée N°02;;Sortie Saint Michel;Quai Saint Michel;Entrée 2 -  Quai St Michel;48.85375,2.344667
+C;Vauboyen;Rue de Vauboyen 78350   Jouy-en-Josas;87393538;Entrée N°03;;;Rue de Vauboyen;Entrée 3  - Rue de Vauboyen;48.7593,2.192067
+L;Asnières-sur-Seine;Rue de la Station 92600 Asnières sur Seine;87381137;Entrée  et sortie 1;;;Rue d'Anjou/ Rue de la Station;Entrée 1 - Rue d'Anjou/ Rue de la Station;48.906223,2.283831
+C;Bièvres;Place de la Gare 91570   Bièvres;87393546;Entrée N°01;façade BV;Sortie Place de la Gare;Avenue de la Gare;Entrée 1 - Avenue de la Gare;48.751343,2.215722
+L;Saint-Germain Bel Air Fourqueux;Place du Préfet Claude Erignac 78100 Saint Germain en Laye;87366922;Entrée et sortie 1;;;Place du Préfet Claude Erignac;Entrée 1 - Place du Préfet Claude Erignac;48.895038,2.070201
+L;Paris Saint-Lazare;13 Rue d'Amsterdam 75008 Paris;87281899;Entrée et sortie 3;Rue de Londres;;Rue de Londres;Entrée 3 - Rue de Londres Accès au Quais (Ter);48.878023,2.32627
+L;Suresnes-Mont-Valérien;Rue Worth 92150 Suresnes;87382374;Entrée et sortie 1;;;Rue Worth;Entrée 1 - Rue Worth;48.871428,2.221256
+C;Breuillet-Village;Rue de la Gare 91650   Breuillet;87545491;Entrée N°03;coté gauche bv;Sortie Rue de la Gare;Rue de la Gare;Entrée 3 - Rue de la Gare;48.56495,2.171567
+C;Chamarande;Place de la Gare 91730   Chamarande;87545152;Entrée N°02;Quai BV;Sortie - Place de la Gare;Place de la Gare;Entrée 2 -  Place de la gare;48.514511,2.216286
+C;Boulainvilliers;52, Rue des Vignes 75016   Paris;87543181;Entrée N°03;;;Rue de Boulainvilliers;Entrée 3 - Rue des Boulainvilliers;48.85665,2.27475
+L;Maisons-Laffitte;1 entrée par 2 accès : rue jean Mermoz et par l'avenue de longueil;87386425;Entrée et sortie;Entrée secondaire;;1 entrée par 2 accès : Rue Jean Mermoz et par l'avenue de longueil.;Entrée 2 - Rue Jean Mermoz;48.564527,2.84099
+L;Cergy-Saint-Christophe;Rue des pas perdus;87382499;Entrée et sortie;Entrée 1;;Rue des pas perdus;Entrée 1 - Rue des Pas Perdus;49.25809,2.233
+L;Cergy-le-Haut;Rue de lendemain;87382655;Entrée et sortie;Entrée 2;;Rue de lendemain;Entrée 2 - Rue du Lendemain;49.025535,2.004274
+L;LOUVECIENNES;;87382457;;;;;;
+C;Saint-Martin-d'Etampes;Rue Salvador Allende 91150   Etampes;87545350;Entrée N°01;Coté droit du BV;Sortie rue Salvator Allende;Rue Salvator Allende;Entrée  1 - Rue Salvator Allende;48.4276,2.145283
+C;Pontoise;Place du général de Gaulle 95300 Pontoise;87276139;Entrée et Sortie;Entrée Principale;;;Entrée 1 - Place du général de Gaulle;49.047123,2.095428
+C;Pont de l'Alma;Place de la Résistance 75007   Paris;87393041;Entrée N°02;Accés Quai B;Sortie;Place de la Résistance;Entrée 2 - Place de la Résistance  ( Accès Quai B);48.862694,2.301167
+C;Péreire-Levallois;4 bis, Place du Maréchal Juin 75017   Paris;87381012;Entrée N°02;;Sortie puvuis de Chavannes;Bd Péreire Sud;Entrée 1  - Bld Pereire / Puvuis de Chavannes;48.886383,2.300617
+C;Massy-Verrières;2 bis, Avenue de la Gare 91300   Massy;87383281;Entrée N°02;Coté droit bv sous terrain;;Place Gabriel Brun;Entrée 2 - Place Gabriel Brun;48.734883,2.273167
+C;Jouy-en-Josas;Avenue Jean Jaurès 78350   Jouy-en-Josas;87393512;Entrée N°02;quai opposé bv;;;Entrée 2 - Avenue Jean Jaures;48.76455,2.166921
+C;PARIS AUSTERLITZ;;87547026;;;;;;
+C;Saint-Quentin-en-Yvelines;Place Charles de Gaulle 78180 Montigny le Bretonneux;87393843;Entrée et sortie 5;;;Place Charle De Gaulle/ Joël Le Theule;Entrée 5 - Place Charle De Gaulle/ Joël Le Theule;48.786461,2.044684
+C;Versailles Rive Gauche - Château;5, Avenue du Général De Gaulle 78000   Versailles;87393157;Entrée N°03;coté gauche BV;;Avenue du Général de Gaulle;Entrée 3 - Avenue du Général de Gaulle;48.800516,2.129088
+C;Versailles Rive Gauche - Château;5, Avenue du Général De Gaulle 78000   Versailles;87393157;Entrée N°01;façade bv;;Avenue du Général de Gaulle;Entrée 1 - Avenue du Général de Gaulle;48.80017,2.128649
+C;Saint-Michel-sur-Orge;Rue Anatole France 91240   Saint-Michel-sur-Orge;87545202;Entrée N°04;Sortie place de la Gare;;Gare routière;Entrée 4 - Place de la Gare ( Gare Routière);48.6361,2.30695
+C;Saint-Ouen-l'Aumône;rue du 8 mai 1945 95310 Saint-Ouen-l'Aumône;87276105;Entrée et Sortie;Entrée Principale;;;Entrée 1 - Rue du 8 mai 1945;49.045239,2.106531
+C;Vauboyen;Rue de Vauboyen 78350   Jouy-en-Josas;87393538;Entrée N°01;;Sortie rue de Vauboyen;Rue de Vauboyen;Entrée 1  - Rue de Vauboyen;48.758983,2.192
+C;Villeneuve-le-Roi;Place de la Gare 94290   Villeneuve-le-Roi;87545277;Entrée N°02;quai opposé au bv;Sortie Zone industrielle;Chemin latéral;Entrée 2 -  Zone industrielle;48.739933,2.426733
+L;Chaville Rive Droite;32 Rue Carnot  92370 Chaville;87382333;Entrée et sortie 1;;;Rue Carnot;Entrée 1 - Rue Carnot;48.812082,2.187807
+C;Igny;1, Avenue Jean Jaurès 91430   Igny;87393561;Entrée N°01;façade bv;Sortie;Avenue Jean Jaures;Entrée 1 - Avenue Jean Jaures;48.740033,2.23125
+C;Bouray;Paté de Lardy 91850  Lardy;87545178;Entrée N°01;façade BV;Sortie;Gare routière;Entrée 1 - Gare routière;48.533083,2.290617
+C;Choisy-le-Roi;Avenue du 8 mai 45 94600   Choisy-le-Roi;87545285;Entrée N°02;passerelle bv;;;Entrée 2 - Avenue du 8 mai 45 (Passerelle);48.764067,2.409883
+L;Saint-Germain Grande Ceinture;Place Christiane Frahier 78100 St Germain en Laye;87382804;Entrée et sortie 2;;;Rue Bastiat;Entrée 2 - Rue Bastiat;48.902825,2.072481
+L;Vaucresson;Place de Charles de Gaulle 92420 Vaucresson;87382267;Entrée et sortie 1;;;Place du Général de Gaulle;Entrée 1 - Place du Général de Gaulle;48.83689,2.152642
+L;Val-d'Or (Le);33, Avenue Alfred Belmontet 92210 Saint Cloud;87382366;Entrée et sortie 2;;;Rue du Pierrier;Entrée 2 - Rue du Pierrier;48.856442,2.215885
+C;Saint-Michel-sur-Orge;Rue Anatole France 91240   Saint-Michel-sur-Orge;87545202;Entrée N°03;;Sortie rue Anatole France;Rue anatole France;Entrée 3 - Rue Anatole France;48.634933,2.30665
+C;Viroflay Rive Gauche;1 Rue Riesseuc 78220 Viroflay;87393215;Entrée et sortie 1;Entrée et sortie Principale;;Rue de Riesseuc;Entrée 1 - Rue de Riesseuc;48.80073,2.171268
+L;Cergy-Préfecture;Gare routière et Parvis en parallèle au Bld de l'Oise;87381905;Entrée et sortie;Entrée principale;Entrée unique à vérifier;Gare routière et Parvis en parallèle au Bld de l'Oise;Entrée 1 - Gare routière de Cergy Préfecture;49.2112,2.44838
+L;La Defense;Rue Carpeaux - 92800 Puteaux;87382218;Entrée 5;Entrée et sortie intermodalité;Sortie Parvis;Place de la défense;Entrée 1 - Parvis de la Défense;48.891496,2.239285
+L;Maisons-Laffitte;Place de la Libération par l'avenue du Général De Gaulle;87386425;Entrée et sortie;Entrée principale;;Place de la Libération par l'avenue du Général De Gaulle;Entrée 1 - Place de la Libération;48.564428,2.83919
+L;Paris Saint-Lazare;13 Rue d'Amsterdam 75008 Paris;87281899;Entrée et sortie 5;Cours du Havre/ Rue Amsterdam;;Rue d'Amsterdam;Entrée 5 - Cours du Havre/ Rue d'Amsterdam;48.876162,2.326806
+L;Pont-Cardinet;145 Rue Cardinet 75017 Paris;87381111;Entrée et sortie 1;;;Boulevard Péreire Sud/ rue Cardinet;Entrée 1 - Boulevard Péreire Sud/ rue Cardinet;48.887596,2.31402
+L;Noisy le Roi;Place de la gare 78590 Noisy le Roi;87393876;Entrée et sortie 1;;;Place Robert Brame;Entrée 1 - Place Robert Brame;48.841527,2.061725
+C;Ermont Eaubonne;Rue des Bussys - 95120 Ermont;87276065;Entrée 3;;Sortie rue du Général Leclerc et Rue Raoul Doulty;Av Général Leclerc;Entrée 3 - Av Général Leclerc;48.980337,2.270597
+C;Choisy-le-Roi;Avenue du 8 mai 45 94600   Choisy-le-Roi;87545285;Entrée N°04;quai opposé bv;;Quai de Choisy;Entrée 4 - Avenue du 8 mai 45;48.76503,2.411422
+C;Issy Val-de-Seine;87, Avenue de Verdun 92130   Issy-les-Moulineaux;87393306;Entrée N°03;;;Rue Rouget de l'isle;Entrée 3 - Rue Rouget de l'isle;48.8291,2.262817
+C;Franconville-Le Plessis-Bouchard;Place de la gare 95130 Franconville;87276071;Entrée et Sortie;Entrée Principale;;;Entrée 1 - Place de la gare;48.993653,2.234952
+C;Massy-Verrières;2 bis, Avenue de la Gare 91300   Massy;87383281;Entrée N°01;coté gauche BV;;Avenue de Verrières;Entrée 1 - Avenue de Verrières;48.734983,2.273333
+C;Jouy-en-Josas;Avenue Jean Jaurès 78350   Jouy-en-Josas;87393512;Entrée N°01;facade BV;;Avenue Jean Jaures;Entrée 1 - Avenue Jean Jaures;48.764921,2.163542
+C;Musée d'Orsay;7, Quai Anatole France 75007   Paris;87547307;Entrée N°02;Sur Quai;;Quai Anatole France;Entrée 2 - Quai Anatole France;48.860704,2.326035
+C;Saint-Quentin-en-Yvelines;Place Charles de Gaulle 78180 Montigny le Bretonneux;87393843;Entrée et sortie 1;;;Place Charles de Gaulle;Entrée 1 - Place Charles de Gaulle;48.786621,2.045134
+C;Saint-Ouen;Rue Dora Maar 93400 Saint-Ouen;87271247;Entrée et Sortie;Entrée Principale;;;Entrée 1 - Rue Dora Maar;48.905507,2.32242
+L;Courbevoie;Rue de Sébastopol 92400 Courbevoie;87382200;Entrée et sortie 1;;;Place de la gare de Courbevoie/ Rue Sébastopol;Entrée 1 - Place de la gare de Courbevoie/ Rue Sébastopol;48.898295,2.247949
+L;Versailles Rive Droite;40, Rue du Maréchal Foch 78000  Versailles;87382861;Entrée et sortie 1;;;40, Rue du Maréchal Foch;Entrée 1 - Rue du Maréchal Foch;48.80971,2.135259
+C;Sermaise;Route de Dourdan 91530   Sermaise;87545517;Entrée N°01;BV;"Sortie 
+avenue de Dourdan";Avenue de Dourdan;Entrée  1 - Avenue de Dourdan;48.535433,2.0687
+C;Vitry-sur-Seine;Cour de la Gare 94400   Vitry-sur-Seine;87545293;Entrée N°06;sous terrain quai opposé au bv;;Rue Pierre Semard;Entrée 6 - Rue Pierre Semard (Sous terrain);48.800717,2.40265
+C;Chaville-Vélizy;1, Place de Verdun 78140   Viroflay;87393173;Entrée N°02;coté opposé au bv;"Sortie Gare Routière
+parking";rue Arthur petit;Entrée 2 - Gare Routière/ Parking;48.799267,2.183883
+C;Ablon;Place de la Libération 94480   Ablon-sur-Seine;87545269;Entrée N°03;Quai opposé bv;Sortié allée des tamaris;Allée des tamaris;Entrée 3 - Allée des Tamaris;48.7251,2.419333
+C;Brétigny;Place Pierre Venin91220  Brétigny-sur-Org;87545194;Entrée N°01;facade bv;Sortie place Pierre Venin;Place de la Gare;Entrée 1 - Place Pierre Venin;48.6066,2.30245
+C;Arpajon;Rue Aristide Briand 91290   Arpajon;87545467;Entrée N°03;coté gauche BV;Sortie Avenue d'Egly;Place de la Gare;Entrée 3 - Avenue d'Egly;48.586183,2.241717
+L;Clichy-Levallois;6 place du 8 mai 1945 92110 Clichy;87381129;Entrée et sortie 2;Sous le pont près du square;;Square de la gare/ Rue Paul Vaillant Couturier;Entrée 2 - Square de la gare/ Rue Paul Vaillant Couturier;48.898543,2.295382
+L;Bécon les Bruyères;Rue Madira - 92400 Courbevoie;87382002;Entrée 2;Coté Courbevoie, entrée sur la Place;;Place du sarrail (Courbevoie);Entrée 2 - Place du sarrail (Courbevoie);48.905098,2.26865
+C;Meudon Val-Fleury;1, Place Jean Jaurès 92190   Meudon;87393082;Entrée N°02;Quai opposé au bv;Sortie;Avenue de Louvois;Entrée 2 - Avenue de Louvois;48.807933,2.2414
+C;Musée d'Orsay;7, Quai Anatole France 75007   Paris;87547307;Entrée N°04;;;Rue de la Légion d'Honneur;Entrée 4 - Rue de la Légion d'Honneur;48.860129,2.324794
+C;Athis-Mons;Place de Rothenbourg ob der Tauber 91200   Athis-Mons;87545251;Entrée N°03;quai opposé au bv;Sortie Coté seine;Place Jules Froelinger;Entrée 3 - Place Jules Froelinger (Coté seine);48.7123,2.403517
+C;Arpajon;Rue Aristide Briand 91290   Arpajon;87545467;Entrée N°01;façade BV;Sortie;Place de la Gare;Entrée 1 - Place de la gare;48.586183,2.241
+L;Vaucresson;Place de Charles de Gaulle 92420 Vaucresson;87382267;Entrée et sortie 2;;;Sente des Buttes;Entrée 2 - Sente des Buttes;48.83686,2.151917
+C;Etampes;Place du Général Leclerc 91150   Etampes;87545137;Entrée N°01;façade BV;Sortie Pl Général Leclerc coté Gare et Centre ville;Place Géneral Leclerc;Entrée 1 -Place Général Leclerc (coté Gare et Centre ville);48.436567,2.159517
+C;Jouy-en-Josas;Avenue Jean Jaurès 78350   Jouy-en-Josas;87393512;Entrée N°03;quai opposé bv;;Rue de la Liberation;Entrée 3 - Rue de la Liberation;48.764697,2.161111
+C;Saint-Michel-Notre-Dame;Quai Saint Michel 75005   Paris;87547315;Entrée N°01;;Sortie Notre Dame;Quai Saint Michel;Entrée 1 -  Quai St Michel (Notre Dame);48.853217,2.346567
+C;Trappes;Avenue Gabriel Péri 78 190 Trappes;87393835;Entrée et sortie 2;;;Rue Jean Zay;Entrée 2 - Rue Jean Zay;48.774526,2.006213
+C;Vitry-sur-Seine;Cour de la Gare 94400   Vitry-sur-Seine;87545293;Entrée N°04;escalier debut quai opposé au bv;;Rue d'ivry;Entrée 4 - Rue d'Ivry;48.80145,2.402233
+C;Dourdan;Place Amédée Guénée 91410   Dourdan;87545525;Entrée N°01;façade BV;"Sortie
+ place Amédée Guénée 
+Gare Routière";Rue Amédée Guénée;Entrée  1 - Gare Routière / Place Amédée Guénée;48.533417,2.0097
+C;Champ de Mars - Tour Eiffel bir hakeim;Quai Branly ( pont Bir Hakeim ) 75015   Paris;87393058;Entrée N°02;Coté Tour Eiffel;"Sortie
+ Avenue Suffren 
+Tour Eiffel";Quai Branly;Entrée 2 - Avenue Suffren / Tour Eiffel;48.857278,2.291033
+C;Sainte-Geneviève-des-Bois;Place de la Gare 91700   Sainte-Geneviève-des-Bois;87545210;Entrée N°01;façade BV;Sortie Villiers sur orge;Place de la Gare;Entrée 1 -  Place de la Gare / Villiers sur orge;48.653233,2.3131
+C;Saint-Chéron;Place de la Gare 91530   Saint-Chéron;87545509;Entrée N°01;facade bv;Sortie rue des Herbages;Sortie rue des Herbages;Entrée 1 - Rue des Herbages;48.551217,2.125567
+C;Saint-Cyr;Place Pierre Sémard 78120 Saint-Cyr l'Ecole;87393223;Entrée et sortie 1;Entrée principale;;Place Pierre Sémard;Entrée 1 - Place Pierre Sémard;48.799002,2.073308
+C;Péreire-Levallois;4 bis, Place du Maréchal Juin 75017   Paris;87381012;Entrée N°01;entrée BV;Sortie place du Marechal Juin;Place du Maréchal Juin;Entrée 1 - Place du Maréchal Juin;48.885333,2.29795
+C;Brétigny;Place Pierre Venin 91220  Brétigny-sur-Org;87545194;Entreé N°02;;Sortie Brossolette;Rue Pierre Brossolette;Entrée 2 - Rue Pierre Brossolette;48.606883,2.301183
+C;Chemin-d'Antony;Rue Lavoisier 92160   Antony;87546317;Entrée N°01;;Sortie Avenue Lavoisier;Rue lavoisier;Entrée 1 - Avenue Lavoisier;48.748083,2.312383
+C;Egly;Impasse de la Masure 91520   Egly;87545475;Entrée N°01;facade BV;;Avenue de la Gare;Entrée 1 - Avenue de la Gare;48.582283,2.222233
+C;Pont du Garigliano - Boulevard Victor;193, Quai André Citroën75015 Paris;87393322;Entrée N°01;;;Rue du professeur Florian Delabarre;Entrée 1 - Rue du professeur Florian Delabarre;48.839467,2.271567
+C;Porchefontaine;Avenue de Porchefontaine 78000   Versailles;87393165;Entrée N°01;facade Bv;Sortie;Avenue de Porchefontaine;Entrée 1 - Avenue de Porchefontaine;48.796917,2.153967
+C;Porte de Clichy;190 ter, Avenue de Clichy 75017   Paris;87111278;Entrée N°02;;Sortie rue de la jonquiere;Rue fragonard;Entrée 2 -  Rue de la Jonquiere / Rue Fragonard;48.89455,2.317183
+C;Sainte-Geneviève-des-Bois;Place de la Gare 91700   Sainte-Geneviève-des-Bois;87545210;Entrée N°03;Quai opposé au bv;Sortie;Place du Président F.Roosvelt;Entrée 3 -  Place du Président F.Roosevelt;48.653267,2.313883
+L;Bécon les Bruyères;Rue Madira - 92400 Courbevoie;87382002;Entrée 1;Coté Courbevoie, entrée sur la Place;;Place du sarrail (Courbevoie);Entrée 1 - Place du sarrail (Courbevoie);48.905226,2.269023
+L;Viroflay Rive Droite;1 Place de Stalingrad;87382887;Entrée et sortie 1;;;Place de la Bataille de Stalingrad;Entrée 1 - Place de la Bataille de Stalingrad;48.805628,2.1685
+C;Avenue du Président Kennedy;6, Rue du Ranelagh 75016   Paris;87543207;Entrée N°01;;"Sortie - Rue Ranelagh
+maison radio France";rue Ranelagh;Entrée 1 -  Rue Ranelagh (Maison de la Radio);48.853,2.280333
+C;Arpajon;Rue Aristide Briand 91290   Arpajon;87545467;Entrée N°04;coté gauche BV;;Place de la Gare;Entrée 4 - Place de la gare;48.586167,2.241817
+C;Boulainvilliers;52, Rue des Vignes 75016   Paris;87543181;Entreé N°02;;;Rue des Vignes;Entrée 2 -  Rue des Vignes;48.856267,2.275067
+C;Cernay;Rue Gallieni 95120 Ermont;87276063;Entrée et Sortie;Entrée Principale;;;Entrée 1 - Rue Gallieni;48.985413,2.256748
+C;Gravigny-Balizy;Rue des Templiers 91160   Longjumeau;87393645;Entrée N°02;debut quai BV;Sortie coté Balizy;Rue des Templiers;Entrée 2 - Rue des Templiers (Coté Balizy);48.685217,2.317817
+C;Etréchy;Boulevard Pasteur 91580   Etrechy;87545145;Entrée N°03;Quai opposé au bv;Sortie rue de Vintue;Rue de Vintue;Entrée 3 - Rue de Vintue;48.493453,2.194882
+C;Issy Val-de-Seine;87, Avenue de Verdun 92130   Issy-les-Moulineaux;87393306;Entrée N°01;;;Place Lafayette;Entrée 1 - Place Lafayette;48.829317,2.263317
+C;Massy-Verrières;2 bis, Avenue de la Gare 91300   Massy;87383281;Entrée N°03;sous terrain entrée opposée au bv;;Place Gabriel Brun;Entrée 3 - Place Gabriel Brun (Sous terrain);48.7344,2.2735
+C;Musée d'Orsay;7, Quai Anatole France 75007   Paris;87547307;Entrée N°03;Esplanade musée;;Rue de la Légion d'Honneur;Entrée 3 - Rue de la Légion d'Honneur (Esplanade musée);48.860642,2.325415
+C;Marolles-en-Hurepoix;Place de la Gare 91630   Marolles-en-Hurepoix;87545186;Entrée N°02;coté droit du BV;Sortie place de la gare;;Entrée 2 - Place de la Gare;48.5649,2.290733
+C;Montigny-Beauchamp;Place de la Gare, 95370 Montigny Les Cormeilles;87276089;Entrée et Sortie;Entrée Principale;;Avenue de la Gare;Entrée 1 - Avenue de la Gare;49.007488,2.197844
+C;Saint-Chéron;Place de la Gare 91530   Saint-Chéron;87545509;Entrée N°05;coté opposé au bv;Sortie rue Racary;Sortie rue Racary;Entrée 5 -  Rue Racary;48.55075,2.124517
+L;Puteaux;2 Rue Ferdinand Pelloutier 92800 Puteaux;87382382;Entrée et sortie 1;;;Rue Ferdinant Pelloutier;Entrée 1 - Rue Ferdinant Pelloutier;48.883449,2.233407
+C;Saules (Les);Voie les Saules 94310   Orly;87546226;Entrée N°01;façade BV;Sortie;Place de la Gare des Saules;Entrée 1 - Place de la Gare des Saules;48.745483,2.41725
+C;Avenue Foch;91 Boulevard Flandrin 75016   Paris;87381038;Entrée N°01;façade BV;"Sortie place  Maréchal de Latre de Tassigny
+Bd Flandrin";Place du Maréchal de Latre de Tassigny;Entrée 1 - Place Maréchal de Tassigny / Bd Flandrin;48.87105,2.275683
+C;Massy-Palaiseau;6, Place Pierre Sémard 91300   Massy;87393579;Entrée N°01;façade BV N°01;Sortie Place Pierre Semard;Place Pierre Semard;Entrée 1 - Place Pierre Semard;48.724683,2.256383
+C;Meudon Val-Fleury;1, Place Jean Jaurès 92190   Meudon;87393082;Entrée N°01;facade bv;Sortie;Avenue de Louvois;Entrée 1 - Avenue de Louvois;48.808,2.240883
+C;Musée d'Orsay;7, Quai Anatole France 75007   Paris;87547307;Entrée N°01;Sur Quai;;Quai Anatole France;Entrée 1 - Quai Anatole France;48.860917,2.325244
+L;Bougival;Place Maréchal Leclerc 78170 La Celle-Saint-Cloud;87382440;Entrée et sortie 1;;;Place Maréchal Leclerc /Sente de la Station;Entrée 1 - Place Maréchal Leclerc /Sente de la Station;48.854243,2.132392
+L;Conflans-fin-d'Oise;Par le rond point Quai Eugène le coore;87381459;Entrée et sortie;Entrée 2 côté parking;;Par le rond point Quai Eugène le coore;Entrée 2 - Rond point Quai Eugène Le Coore;49.59205,2.42714
+L;La Defense;Rue Carpeaux - 92800 Puteaux;87382218;Entrée 2;Entrée centrale sur le parvis;Sortie A - Grande Arche;Avenue Perronet Sud;Entrée A - Grande Arche - Av Perronet Sud;48.89182,2.23777
+L;Neuville-Université;Accès par le chemin de Cergy;87334482;Entrée et sortie;Entrée secondaire;;Accès par le chemin de Cergy;Entrée 2 - Chemin de Cergy;49.05105,2.44066
+L;Pont-Cardinet;145 Rue Cardinet 75017 Paris;87381111;Entrée et sortie 2;;;Rue Cardinet;Entrée 2 - Rue Cardinet;48.887627,2.314407
+L;GARCHES MARNES LA COQUETTE;;87382259;;;;;;
+C;Breuillet-Village;Rue de la Gare 91650   Breuillet;87545491;Entrée N°05;Début de quai opposé au bv;"Sortie Rue de la gare 
+coté parking";Rue de la Gare;Entrée 5 - Rue de la gare  / coté parking;48.564783,2.17175
+C;Breuillet-Bruyères-le-Châtel;Route d'Arpajon 91650   Breuillet;87545483;Entrée N°01;facade bv;Sortie Place de la Gare;Route d'Arpajon;Entrée 1 - Place de la Gare;48.577133,2.191833
+C;Dourdan;Place Amédée Guénée 91410   Dourdan;87545525;Entrée N°02;coté Gauche du v;Sortie de Nuit;Av du docteur jules bales;Sortie 1 - Av du docteur jules bales (Uniquement en nuit);48.533483,2.00935
+C;Savigny-sur-Orge;Place de la Gare 91600   Savigny-sur-Orge;87545236;Entrée N°04;quai opposé BV sous-terrain;;Place Davout;Entrée 2 - Place Davout;48.675783,2.352183
+C;Saint-Michel-sur-Orge;Rue Anatole France 91240   Saint-Michel-sur-Orge;87545202;Entrée N°02;;;Allée des Vignes;Entrée 2 - Allée des Vignes;48.636083,2.306517
+C;Vitry-sur-Seine;Cour de la Gare 94400   Vitry-sur-Seine;87545293;Entrée N°03;escalier debut du quai coté bv;;Rue Jules Ferry;Entrée 3 - Rue Jules Ferry;48.8013,2.40175
+C;Issy Val-de-Seine;87, Avenue de Verdun 92130   Issy-les-Moulineaux;87393306;Entrée N°02;;;Rue Rouget de l'isle;Entrée 2 - Rue Rouget de l'isle;48.829333,2.26295
+C;BIBILIOTHEQUE F. MITTERRAND;;87328328;;;;;;
+C;Breuillet-Bruyères-le-Châtel;Route d'Arpajon 91650   Breuillet;87545483;Entrée N°04;Quai opposé bv;Sortie Rue Nouvelle;Rue Nouvelle;Entrée 4 - Rue Nouvelle;48.577967,2.19245
+C;Boulainvilliers;52, Rue des Vignes 75016   Paris;87543181;Entrée N°04;;Sortie rue singer;Villa des glinières;Entrée 4 - Rue Singer / Villa des Glinières;48.85665,2.2754
+L;Courbevoie;Rue de Sébastopol 92400 Courbevoie;87382200;Entrée et sortie 3;;;Avenue Château-du-Loir;Entrée 3 - Avenue Château-du-Loir;48.898025,2.248346
+L;Houilles-Carrières-sur-Seine;Rue du 4 septembre;87386409;Entrée et sortie;Entrée 2;;Rue du 4 septembre;Entrée 2 - Rue du 4 septembre;48.551371,2.11812
+C;Pont de l'Alma;Place de la Résistance 75007   Paris;87393041;Entrée N°01;Accés quai A;Sortie;Place de la Résistance;Entrée 1 - Place de la Résistance ( Accès Quai A);48.862522,2.301183
+C;Villeneuve-le-Roi;Place de la Gare 94290   Villeneuve-le-Roi;87545277;Entrée N°01;façade BV;Sortie Place de la Gare;Place Lénine;Entrée 1 - Place de la Gare (Place Lénine);48.739833,2.426083
+L;Courbevoie;Rue de Sébastopol 92400 Courbevoie;87382200;Entrée et sortie 4;;;Avenue Château-du-Loir/ Rue Adam Ledoux;Entrée 4 - Avenue Château-du-Loir/ Rue Adam Ledoux;48.898439,2.24912
+L;Conflans-fin-d'Oise;Place Georges Clémenceau;87381459;Entrée et sortie;Entrée principale;;Place Georges Clémenceau;Entrée 1 - Place Georges Clémenceau;49.5921,2.42912
+C;Invalides;2, Rue Esnault Pelterie 75007   Paris;87393033;Entrée N°02;De jour (6h-22h);;Voie Express Rive Gauche;Entrée 2 - 2, Rue Esnault Pelterie (Voie express Rive Gauche);48.86305,2.31395
+C;Pont-de-Rungis-Aéroport-d'Orly;Avenue du Docteur Marie 94150   Thiais;87546192;Entrée N°01;façade BV;;;Entrée  1 - Avenue du Docteur Marie;48.748033,2.372867
+C;Ivry-sur-Seine;Place Marcel Cachin 94200   Ivry-sur-Seine;87545301;Entrée N°02;coté gauche bv;;Place Marcel Cachin;Entrée 2 - Place Marcel Cachin;48.814416,2.390864
+C;Gravigny-Balizy;Rue des Templiers 91160   Longjumeau;87393645;Entrée N°03;debut quai opposé bv;Sortie coté Gravigny;Rue des Templiers;Entrée 3 - Rue des Templiers (Coté Gravigny);48.685267,2.318
+C;Epinay-sur-Orge;1, Place Stalingrad 91360   Epinay-sur-Orge;87545228;Entrée N°01;façade BV;Sortie Place Stalingrad;Place Stalingrad;Entrée 1 - Place Stalingrad;48.669467,2.331883
+C;Chilly-Mazarin;Rue du Chemin de Fer 91380   Chilly-Mazarin;87393637;Entrée N°01;BV;Sortie Place de la Gare;;Entrée 1 -  Place de la Gare;48.700583,2.30845
+L;Versailles Rive Droite;40, Rue du Maréchal Foch 78000   Versailles;87382861;Entrée et sortie 3;;;Impasse de Clagny;Entrée 3 - Impasse de Clagny;48.809653,2.135432
+L;Val-d'Or (Le);33, Avenue Alfred Belmontet 92210 Saint Cloud;87382366;Entrée et sortie 1;;;Avenue Alfred Belmontet;Entrée 1 - Avenue Alfred Belmontet;48.856934,2.216796
+L;LA GARENNE COLOMBES;;87386003;;;;;;
+C;Sainte-Geneviève-des-Bois;Place de la Gare 91700   Sainte-Geneviève-des-Bois;87545210;Entrée N°02;quai coté gauche bv;Sortie;Place de la Gare;Entrée 2 -  Place de la Gare;48.653533,2.3138
+C;Rungis-la-Fraternelle;Rue des Alpes 94150   Rungis;87546291;Entrée N°01;façade BV;Sortie place de la Gare;Place de la Gare;Entrée 1 - Place de la Gare;48.740317,2.3531
+C;Savigny-sur-Orge;Place de la Gare 91600   Savigny-sur-Orge;87545236;Entrée N°01;façade BV;Sortie Place de la Gare;Place de la Gare;Entrée 1 - Place de la Gare;48.67615,2.351767
+C;Saint-Michel-Notre-Dame;Quai Saint Michel 75005   Paris;87547315;Entrée N°03;;Sortie Quai des grands Augustins;Quai des grands augustins;Entrée 3 - Quai des Grands Augustins;48.853983,2.344
